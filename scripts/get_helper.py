@@ -57,6 +57,9 @@ for f in fs:
         if count % 1000000 == 0:
 
             for key, item in tmp_dict.items():
+                if key is None:
+                    print("Key is none?")
+                    continue
                 val = dict_db.get(key, [])
                 val += item
                 dict_db[key] = val
@@ -66,6 +69,9 @@ for f in fs:
             now = datetime.datetime.now()
 
     for key, item in tmp_dict.items():
+        if key is None:
+            print("Key is none?")
+            continue
         val = dict_db.get(key, [])
         val += item
         dict_db[key] = val
