@@ -1,0 +1,7 @@
+sqlitedict
+numpy
+pandas
+scipy
+statsmodels
+seaborn
+matplotlib
