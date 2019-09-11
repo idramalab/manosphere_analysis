@@ -57,24 +57,27 @@ for f in fs:
         if count % 1000000 == 0:
 
             for key, item in tmp_dict.items():
-                if key is None:
-                    print("Key is none?")
+                try:
+                    val = dict_db.get(key, [])
+                    val += item
+                    dict_db[key] = val
+                except AttributeError:
+                    print("AttributeError", key)
                     continue
-                val = dict_db.get(key, [])
-                val += item
-                dict_db[key] = val
+
             dict_db.commit()
             tmp_dict = {}
             print(datetime.datetime.now() - now)
             now = datetime.datetime.now()
 
     for key, item in tmp_dict.items():
-        if key is None:
-            print("Key is none?")
+        try:
+            val = dict_db.get(key, [])
+            val += item
+            dict_db[key] = val
+        except AttributeError:
+            print("AttributeError", key)
             continue
-        val = dict_db.get(key, [])
-        val += item
-        dict_db[key] = val
     dict_db.commit()
     dict_db.close()
 
