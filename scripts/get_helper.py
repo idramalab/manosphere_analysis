@@ -13,7 +13,7 @@ parser.add_argument("--src", dest="src", action="append",
 parser.add_argument("--author_dict", dest="author_dict", action="store_true",
                     help="If present, runs author_dict, otherwise, runs for channel_dict.")
 
-parser.add_argument("--dst", dest="dst", deafult="/data/incels_helpers/",
+parser.add_argument("--dst", dest="dst", default="/data/incels_helpers/",
                     help="If present, runs author_dict, otherwise, runs for channel_dict.")
 
 args = parser.parse_args()
