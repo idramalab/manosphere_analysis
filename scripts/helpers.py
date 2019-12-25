@@ -77,15 +77,6 @@ bins_y_s = [
 ]
 
 
-def triple_bin_to_df(keys, bin1, bin2, bin3, fun):
-    vals = []
-    for k in keys:
-        val = fun(bin1[k], bin2[k], bin3[k])
-        val["idx"] = k
-        vals.append(val)
-    return pd.DataFrame(vals)
-
-
 def bin_to_df(keys, bin1, bin2, fun):
     vals = []
     for k in keys:
@@ -93,20 +84,6 @@ def bin_to_df(keys, bin1, bin2, fun):
         val["idx"] = k
         vals.append(val)
     return pd.DataFrame(vals)
-
-
-def intersec_3(x, y, z):
-    s_x, s_y, s_z = set([it_x for it_x in x]), \
-                    set([it_y for it_y in y]), \
-                    set([it_z for it_z in z])
-
-    s_xy = s_x.intersection(s_y)
-    s_xyz = s_xy.intersection(s_z)
-    s_xuyuz = s_x.union(s_y).union(s_z)
-
-    tmp = {"xyz": len(s_xyz),
-           "xyz_p": len(s_xyz) / len(s_xuyuz) if len(s_xuyuz) != 0 else 0}
-    return tmp
 
 
 def _jaccard(s1, s2):
