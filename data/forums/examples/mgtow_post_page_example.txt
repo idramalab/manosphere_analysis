@@ -1,0 +1,274 @@
+[
+  {
+    'author': 'Westcoasttrendkill',
+    'resume_author': None,
+    'joined_author': '2017-11-14 00:00:00',
+    'messages_author': 138,
+    'text_post': 'I had two jobs about a year or so ago. I asked about eight men, that I worked with between the two jobs, if they remembered MWC and the men’s club No Ma’am. They all did and about half expressed interest in starting a group when I asked. Unfortunately that interest died out faster than a whale inhaling a box of Twinkies. My motivation at the time was to organize events that were very anti-PC like wet T-shirt contests, midget tossing contests, backyard women’s mud wrestling contests, strip club outings, and basically any behavior that would really p~~~ off feminazis and SJW’s. Always emphasizing on the drinking beer part too. Obviously I wanted to get some attention and see if it could grow. Maybe organize some really cool parties out of it and p~~~ off some people. It could have been a lot of fun but oh well. The way I feel now, I wouldn’t want to deal with all the bimbos those activities would have entailed working with. I just really f~~~ing hate Feminists and SJW’s. Seeing them get angry about people doing what they want and not caring makes me feel good. Does that make me such a bad person?',
+    'number_post': 1,
+    'id_post': 665071,
+    'id_post_interaction': [],
+    'date_post': '2017-11-15 23:40:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948575'
+  },
+  {
+    'author': 'OneTrueMisfit',
+    'resume_author': "Don't care",
+    'joined_author': '2017-04-07 00:00:00',
+    'messages_author': 0,
+    'text_post': 'It makes you a rapist',
+    'number_post': 2,
+    'id_post': 665093,
+    'id_post_interaction': [],
+    'date_post': '2017-11-15 23:56:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948595'
+  },
+  {
+    'author': 'Silver Fox',
+    'resume_author': '"Are you loosed from a wife? Do not seek a wife." --Apostle Paul',
+    'joined_author': '2016-07-28 00:00:00',
+    'messages_author': 733,
+    'text_post': 'wut?',
+    'number_post': 3,
+    'id_post': 665114,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 00:30:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948608'
+  },
+  {
+    'author': None,
+    'resume_author': None,
+    'joined_author': None,
+    'messages_author': None,
+    'text_post': 'I second that motion. Wth is this?',
+    'number_post': 4,
+    'id_post': 665117,
+    'id_post_interaction': [
+      665114
+    ],
+    'date_post': '2017-11-16 00:38:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948620'
+  },
+  {
+    'author': None,
+    'resume_author': None,
+    'joined_author': None,
+    'messages_author': None,
+    'text_post': 'midget tossing…wut? i get the underlying “p~~~ off feminists and sjw groups” but… WUT… You might just as well go and toss fake plastic hand grenades at a Texan police station see how that kind of behavior improves your life. Midget tossing. Are you f~~~ing kidding me. getthehellouttahere… Your ideas were not “walking away”. They were “pulling the pants down and ruining your life” kind of behavior. Thats just as dumb as bringing a big MGTOW banner to a Feminist rally. maybe you could get a darwin award???',
+    'number_post': 5,
+    'id_post': 665123,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 00:50:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948635'
+  },
+  {
+    'author': 'Westcoasttrendkill',
+    'resume_author': None,
+    'joined_author': '2017-11-14 00:00:00',
+    'messages_author': 138,
+    'text_post': 'Do you all need reading lessons or something?',
+    'number_post': 6,
+    'id_post': 665134,
+    'id_post_interaction': [
+      665071
+    ],
+    'date_post': '2017-11-16 01:35:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948651'
+  },
+  {
+    'author': None,
+    'resume_author': None,
+    'joined_author': None,
+    'messages_author': None,
+    'text_post': 'What the F~~~ do i care about how you FEEL now. I need you to come to the conclusion that such acts are a bad idea. feelings, feeling then and feeling now… only get you in trouble. use your brain, not your heart. Until you do, you WILL get in trouble for following your Feelings. And as such (until such time…whateversomething) are entirely capable of tossing a midget or two. BRAIN! not feelings.',
+    'number_post': 7,
+    'id_post': 665144,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 02:01:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948665'
+  },
+  {
+    'author': 'PistolPete',
+    'resume_author': None,
+    'joined_author': '2016-09-27 00:00:00',
+    'messages_author': 6952,
+    'text_post': 'Waiter! No more wine for THIS table.',
+    'number_post': 8,
+    'id_post': 665162,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 02:40:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948677'
+  },
+  {
+    'author': 'Ranger One',
+    'resume_author': "All my life I've had doubts about who I am, where I belonged. Now I'm like the arrow that springs from the bow. No hesitation, no doubts. The path is clear. And what are you? Alive. Everything else is negotiable. Women have rights; men have responsibilities; MGTOW have freedom. Marriage is for chumps. If someone stands in the way of true justice, you simply walk up behind them and stab them in the heart-R'as al Ghul.",
+    'joined_author': '2017-03-22 00:00:00',
+    'messages_author': 5620,
+    'text_post': 'I’m not quite going to call tuna, but while MGTOW is generally about going your own way, and that way can vary from man to man, from going celibate-monk-mode to PUA-like one-night stands, I’m not sure if it really is an outlook of life that would embrace female-like/SJW-like “feels” and “acting out” to p~~~ off the acting-out feminists and SJW’s. I would tend to assume that indulging “feels”, acting out just to p~~~ people off is becoming just like what you hate. If guys want to get together for beers, and to shoot the s~~~ and just be able to fly free as guys without women clipping their wings, then that is something entirely different. MGTOW is about freedom of choice, and if you feel like you have to act out, that’s not really exercising freedom. Women are enslaved to the dictates of their “feels” and seek to enslave men to those very same “feels”.',
+    'number_post': 9,
+    'id_post': 665379,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 07:14:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948695'
+  },
+  {
+    'author': 'Silver Fox',
+    'resume_author': '"Are you loosed from a wife? Do not seek a wife." --Apostle Paul',
+    'joined_author': '2016-07-28 00:00:00',
+    'messages_author': 733,
+    'text_post': 'Okay, serious answer: I hate feminism and social justice, too. But if you really want to undermine those things, then staging a big protest with lots of things to p~~~ them off IS NOT GOING TO WORK. If anything, it would only reinforce those things because you’re giving them ammunition to continue their campaign against men. “See?? See what pigs all men are??” You’re shooting yourself in the foot. If you want to take the wind out of their sails, then just stop playing with them. Quietly go your own way. Let them destroy their own house (and they will). Your biggest, most powerful weapon is simply non-participation. Don’t engage, don’t debate, don’t participate. Just ignore them. They are sowing the wind and you don’t need to help them reap the whirlwind. It will happen on its own. I really wish Stealthy were here to elaborate on the finer nuances of flying under the radar in your life.',
+    'number_post': 10,
+    'id_post': 665662,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 12:01:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948712'
+  },
+  {
+    'author': 'FrostByte',
+    'resume_author': 'If you rescue a damsel in distress, all you will get is a distressed damsel.',
+    'joined_author': '2016-08-09 00:00:00',
+    'messages_author': 5860,
+    'text_post': 'In two weeks the no ma’am club would be wearing pussy hats to pacify the hordes of sign toting feminists outside your door.',
+    'number_post': 11,
+    'id_post': 665667,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 12:07:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948725'
+  },
+  {
+    'author': 'Puffin Stuff',
+    'resume_author': '#icethemout; Remember Thomas Ball. He died for your children. ',
+    'joined_author': '2014-12-03 00:00:00',
+    'messages_author': 7037,
+    'text_post': 'Sometimes you can get out your red pill rage by staging spectacular anti-feminist shows. Some men drink. Some men become angry and bitter for long periods of time. Some calmly weather the storm. I’m still pretty angry and bitter myself. I help get it out of my system in this forum. Fantasizing about p~~~ing off feminists sounds like a lot of fun to me. Take a group of men on a “marriage” tour of Thailand for two weeks. Watch the feminists in your life’s heads explode. lol.',
+    'number_post': 12,
+    'id_post': 665670,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 12:10:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948741'
+  },
+  {
+    'author': 'freedom',
+    'resume_author': None,
+    'joined_author': '2017-05-27 00:00:00',
+    'messages_author': 1201,
+    'text_post': '',
+    'number_post': 13,
+    'id_post': 665690,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 12:26:00',
+    'links': [
+      (
+      'https',
+      'www.youtube.com',
+      '/embed/nptcR9qAqsU?feature=oembed'
+      )
+    ],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948754'
+  },
+  {
+    'author': 'Ogre',
+    'resume_author': 'I failed to realize in my youth that I was the prize. I was going to work. I was going to earn. Little did I realize that due to feminism, that no longer meant I had to share. Road soon, Desert after.',
+    'joined_author': '2015-04-19 00:00:00',
+    'messages_author': 1795,
+    'text_post': 'Not tuna. It’s the rage talking. Why do anything to p~~~ them off? You know what p~~~es feminists and women in general off the most? It’s literally the worst thing that you can ever do in their eyes. Live free, unc~~~, be happy, make and save money. Don’t share a dime. I understand the desire to fight the power, it’s a brash young man’s reaction. You want to yell “F~~~ YOU” at the establishment, but that isn’t winning. Winning is sovereignty and savings. From there it’s all about what you want, all other things are extraneous distractions.',
+    'number_post': 14,
+    'id_post': 665702,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 12:35:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948770'
+  },
+  {
+    'author': 'Ranger One',
+    'resume_author': "All my life I've had doubts about who I am, where I belonged. Now I'm like the arrow that springs from the bow. No hesitation, no doubts. The path is clear. And what are you? Alive. Everything else is negotiable. Women have rights; men have responsibilities; MGTOW have freedom. Marriage is for chumps. If someone stands in the way of true justice, you simply walk up behind them and stab them in the heart-R'as al Ghul.",
+    'joined_author': '2017-03-22 00:00:00',
+    'messages_author': 5620,
+    'text_post': 'What would a “marriage” tour of Thailand entail?',
+    'number_post': 15,
+    'id_post': 665708,
+    'id_post_interaction': [
+      665670
+    ],
+    'date_post': '2017-11-16 12:45:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948788'
+  },
+  {
+    'author': 'Puffin Stuff',
+    'resume_author': '#icethemout; Remember Thomas Ball. He died for your children. ',
+    'joined_author': '2014-12-03 00:00:00',
+    'messages_author': 7037,
+    'text_post': 'Well, I’ve only been on one and what they do is ply you with promises of finding a Thai wife. My son was young and I thought a more traditional wife might make a better step mom than a standard lard ass ameriskank. I really didn’t know what Thailand was like. They put you up in the middle of the sex district in Bangkok, Nana Plaza, in a moderately priced hotel. Really kind of a dump but big as a suite and I’m a guy so who gives a s~~~. Then that night they take you to a beer garden. Thailand is very influenced by German culture as many Germans go to Thailand. There are the low class hookers. These women pretend to be regular girls but for 20.00 US they would do anything. I was jet lagged but when I found out the price I quickly brought 5 up to my room and promptly fell asleep. I met an American/Thai couple and they introduced me to a Thai friend of theirs and we went to dinner. The girl was so polite that she put the sugar in my coffee and stirred it for me. She just wasn’t very hot. I like em hot. The next two weeks we spent mainly in Pattya, one of the most notorious red light districts in the world. Then we went back to Bangkok for a few nights and out. I met a woman in Pattya who I propositioned to come to the U.S. but when my big head started thinking, she didn’t even speak english…what was I thinking…oh yeah, I know what I was thinking. Walking street Pattya.',
+    'number_post': 16,
+    'id_post': 665724,
+    'id_post_interaction': [
+      665708
+    ],
+    'date_post': '2017-11-16 13:10:00',
+    'links': [
+      (
+      'https',
+      'media-cdn.tripadvisor.com',
+      '/media/photo-s/07/b6/41/2a/walking-street-pattaya.jpg'
+      )
+    ],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948811'
+  },
+  {
+    'author': 'Westcoasttrendkill',
+    'resume_author': None,
+    'joined_author': '2017-11-14 00:00:00',
+    'messages_author': 138,
+    'text_post': 'Funny enough, it was South Park that made me aware of all this cultural bulls~~~ happening now. I didn’t care enough when I first heard of it to learn more until the election. I didn’t get to chose to be born straight, white, and a man. I don’t appreciate anyone telling me that all the worlds problems are my fault and that everyone else is 100% innocent and has absolutely zero responsibilities for their actions. It’s a cop out more than anything. Most people preaching about SJW issues and feminism just want rewards without responsibility. They don’t want true equality. The biggest virtue signalers turn out to be some of the hugest frauds when they get busted doing the things they rally against. My desire to start a No Ma’am group was an initial gut reaction to basically say, “F~~~ You, I’ll act anyway I please”. The ideas I had would be some of the most offensive things that would p~~~ off all the people I didn’t like. In learning about MGTOW, it’s plainly obvious that doing all those things wouldn’t actually hold any real value. It would have been participating in the endless circle jerk of what’s happening now. Just like the concepts of declaring sovereignty, not using credit cards or banks, working under the table, living off the land, not using social media, not voting, not buying endless crap, using crypto and PM’s, etc… It’s all about withdrawing from the system. MGTOW is just another extension of men not putting up with this s~~~ anymore. It’s like the movie War Games where the computer learns that the only winning move is not to play at all. I explained all this in a very few short sentences in my original post. The first few guys to comment obviously didn’t understand the point I was making. Seriously, some people need to read and understand what’s being said before replying to something. It just makes you look like an idiot if you don’t.',
+    'number_post': 17,
+    'id_post': 666071,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 19:32:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948830'
+  },
+  {
+    'author': 'Golgotha777',
+    'resume_author': None,
+    'joined_author': '2017-10-01 00:00:00',
+    'messages_author': 192,
+    'text_post': 'I don’t know if you’re relatively new to MGTOW but I recommend some of the classic youtube channels, Stardusk, Barbarossa, TurdFlingingMonkey, etc. The older stuff is really good, I might just go back and watch some of TFM’s archive.',
+    'number_post': 18,
+    'id_post': 666081,
+    'id_post_interaction': [],
+    'date_post': '2017-11-16 19:44:00',
+    'links': [],
+    'thread': '/forums/topic/no-maam/',
+    'crawled_at': '2019-06-20 22:07:40.948844'
+  }
+]

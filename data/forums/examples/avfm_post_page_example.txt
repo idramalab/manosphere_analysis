@@ -1,0 +1,103 @@
+[
+  {
+    'author': 'Anonymous',
+    'resume_author': 'I sexually identify as a sword pommel, check your privilege or i will have to end you RIGHTLY.',
+    'joined_author': '2015-06-01 00:00:00',
+    'messages_author': 2443,
+    'text_post': ' Recently i run into several fictional female dominated societies, and i noticed something about them, while differing in organization, background and setting almost all such societies made up by various authors have one distinct thing in common, men are treated as absolute dirt, here is one example http://starwars.wikia.com/wiki/Witches_of_Dathomir, it appears that it is impossible to create realistic female dominated society where men are treated as anything more then slaves and disposable labor force, sometimes cheap cannon fodder, no matter how enlightened or advanced otherwise the society is there always seems to be this utter disregard for male lives, on the flip side i never saw a male dominated society, fictional or otherwise, treat women in this manner, even if the author goes out of his way to portray truly misogynist society (such as for example Gor series) women always enjoy some degree of protection, but the same does not see to be holding true for the female dominated ones, in fact just the opposite, there seem to be quite a few (if any) female dominated societies where men are treated as anything but disposable utility to be used and discarded at will. ',
+    'number_post': 1,
+    'id_post': 17413,
+    'id_post_interaction': [],
+    'date_post': '2015-11-17 06:58:54',
+    'links': [
+      (
+      'http',
+      'starwars.wikia.com',
+      '/wiki/Witches_of_Dathomir'
+      ),
+      (
+      'http',
+      'starwars.wikia.com',
+      '/wiki/Witches_of_Dathomir'
+      )
+    ],
+    'thread': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/17413-female-dominated-societies-in-fiction',
+    'crawled_at': '2019-06-24 16:07:36.765439'
+  },
+  {
+    'author': 'malcolm',
+    'resume_author': '“No one is free who has not obtained the empire of himself. No man is free who cannot command himself.”\n― Pythagoras',
+    'joined_author': '2012-10-01 00:00:00',
+    'messages_author': 2895,
+    'text_post': ' I think that the only way a female dominated society could be maintained is through the repression of males. I can\'t see any plausible scenario where females "dominate" (in the sense that feminists believe males "dominate") society and males put up with it. Society is comprised of individuals trying to get ahead and females simply can\'t dominate males without the cooperation of other males. ',
+    'number_post': 2,
+    'id_post': 235793,
+    'id_post_interaction': [],
+    'date_post': '2015-11-17 07:43:49',
+    'links': [],
+    'thread': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/17413-female-dominated-societies-in-fiction',
+    'crawled_at': '2019-06-24 16:07:36.765496'
+  },
+  {
+    'author': 'Jaybee',
+    'resume_author': '>>"and in other news, the Judge in the case of AVFM Vs Feminazism ruled today that the creators of \'Gender Equality\' are guilty of Intent to Obtain Social Change by Deception. The Feminazi case collapsed just one day into the trial, after a 1st year medical student demonstrated that men are not, in fact, equal to women".<<\n\n\nNewbie AVFM Member, 2 days in: "My eyes, why do my eyes hurt?"\n\nJaybee, cautious tone: "You\'ve never used them before".',
+    'joined_author': '2015-10-01 00:00:00',
+    'messages_author': 1270,
+    'text_post': ' IMO any society where women laugh more and more often than men, overall, is dominated by women. ',
+    'number_post': 3,
+    'id_post': 235802,
+    'id_post_interaction': [],
+    'date_post': '2015-11-17 08:44:48',
+    'links': [],
+    'thread': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/17413-female-dominated-societies-in-fiction',
+    'crawled_at': '2019-06-24 16:07:36.765535'
+  },
+  {
+    'author': 'malcolm',
+    'resume_author': '“No one is free who has not obtained the empire of himself. No man is free who cannot command himself.”\n― Pythagoras',
+    'joined_author': '2012-10-01 00:00:00',
+    'messages_author': 2895,
+    'text_post': ' Sure it is. But I think "dominated" in this sense refers to the narrow vision that feminism has put on it. It\'s no surprise that women are at their unhappiest since these measures were taken. The more petty power they obtain, the less help, admiration and cooperation they will receive from men - a symptom of being "equal". I don\'t care who "dominates" society as long as my pursuits and those I care about aren\'t impeded. It\'s women who have this obsession with who dominates society. The less I get out of cooperating with society, the less I\'m going to do it.  Feminism\'s portrayal of "the masculine" being obsessed with power and control is just projection. Look at a lot of places in the third world, men will sit around playing dominos all day while the women work at jobs and come home and clean the house. The men don\'t care about job titles and income, they have the women to provide for them. ',
+    'number_post': 4,
+    'id_post': 235808,
+    'id_post_interaction': [
+      235802
+    ],
+    'date_post': '2015-11-17 09:33:28',
+    'links': [],
+    'thread': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/17413-female-dominated-societies-in-fiction',
+    'crawled_at': '2019-06-24 16:07:36.765586'
+  },
+  {
+    'author': 'Jaybee',
+    'resume_author': '>>"and in other news, the Judge in the case of AVFM Vs Feminazism ruled today that the creators of \'Gender Equality\' are guilty of Intent to Obtain Social Change by Deception. The Feminazi case collapsed just one day into the trial, after a 1st year medical student demonstrated that men are not, in fact, equal to women".<<\n\n\nNewbie AVFM Member, 2 days in: "My eyes, why do my eyes hurt?"\n\nJaybee, cautious tone: "You\'ve never used them before".',
+    'joined_author': '2015-10-01 00:00:00',
+    'messages_author': 1270,
+    'text_post': " I think you just came dangerously close to making the feminist argument for them - any society where men sit around and let the women do all the work is going to be poor (though I'd actually agree, albeit for vastly different reasons). I don't know of any society that fits the description though; even in the Mediterranean countries where dominoes are commonly played, that's usually be fellas deep into their 50's and older, who have retired.  The younger ones spend as much time and effort subsidising their womenfolk, who get to do the less mentally stressful jobs, as we do. ",
+    'number_post': 5,
+    'id_post': 235902,
+    'id_post_interaction': [
+      235808
+    ],
+    'date_post': '2015-11-18 11:39:13',
+    'links': [],
+    'thread': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/17413-female-dominated-societies-in-fiction',
+    'crawled_at': '2019-06-24 16:07:36.765627'
+  },
+  {
+    'author': 'malcolm',
+    'resume_author': '“No one is free who has not obtained the empire of himself. No man is free who cannot command himself.”\n― Pythagoras',
+    'joined_author': '2012-10-01 00:00:00',
+    'messages_author': 2895,
+    'text_post': ' I was thinking more of Caribbean cultures. ',
+    'number_post': 6,
+    'id_post': 235906,
+    'id_post_interaction': [
+      235902
+    ],
+    'date_post': '2015-11-18 12:06:42',
+    'links': [],
+    'thread': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/17413-female-dominated-societies-in-fiction',
+    'crawled_at': '2019-06-24 16:07:36.765676'
+  }
+]

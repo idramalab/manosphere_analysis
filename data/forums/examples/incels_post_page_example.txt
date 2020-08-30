@@ -1,0 +1,171 @@
+[
+  {
+    'author': 'PM_ME_STRIPPERS',
+    'resume_author': "here to save m'lady from da niceguys!!!! xDDDDDD",
+    'joined_author': '2017-11-08 00:00:00',
+    'messages_author': 13396,
+    'text_post': ' MAKEUP NEEDS TO BE BANNED. It allows femoids like her to go from a 4/10 at best to a fucking 8 just from slathering their face with crap. They can get chad or chadlite wherever and whenever they feel like it.  Meanwhile i rot with my shitty male genetics, just fucking lol at me. Nearly 24, still ugly, still no relationship and still non - escort sex. ',
+    'number_post': 1,
+    'id_post': 2408754,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 00:23:11',
+    'links': [
+      (
+      'https',
+      'www.youtube.com',
+      '/embed/ksG2jeKZqVM'
+      ),
+      (
+      'https',
+      'i.ytimg.com',
+      '/vi/ksG2jeKZqVM/hqdefault.jpg'
+      )
+    ],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805120'
+  },
+  {
+    'author': 'Dionysus',
+    'resume_author': 'Mythic',
+    'joined_author': '2019-02-17 00:00:00',
+    'messages_author': 4569,
+    'text_post': ' Fakeup is one of the worst inventions ever ',
+    'number_post': 2,
+    'id_post': 2408763,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 00:25:15',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805155'
+  },
+  {
+    'author': 'Braincel14w',
+    'resume_author': 'High inhib mentalcel oldcel',
+    'joined_author': '2018-03-18 00:00:00',
+    'messages_author': 2990,
+    'text_post': " I would seriously make it illegal. It's utter fraud. ",
+    'number_post': 3,
+    'id_post': 2408771,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 00:26:54',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805177'
+  },
+  {
+    'author': 'The Abyss',
+    'resume_author': "Cope 'til you rope.",
+    'joined_author': '2018-07-27 00:00:00',
+    'messages_author': 2495,
+    'text_post': " But if a male wears lifts, has a wig, rents a Mercedes & stuffs a sock down his crotch he's a fake asshole. ",
+    'number_post': 4,
+    'id_post': 2408784,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 00:32:53',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805197'
+  },
+  {
+    'author': 'tehgymcel420',
+    'resume_author': "Blackops2cel's Disciple",
+    'joined_author': '2017-11-10 00:00:00',
+    'messages_author': 8215,
+    'text_post': ' Just be yourself! ',
+    'number_post': 5,
+    'id_post': 2408786,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 00:33:24',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805219'
+  },
+  {
+    'author': 'Michael15651',
+    'resume_author': 'Destined Virgin.',
+    'joined_author': '2018-11-04 00:00:00',
+    'messages_author': 23979,
+    'text_post': " But if a male were to have plastic surgery then it's considered a problem to them. ",
+    'number_post': 6,
+    'id_post': 2408788,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 00:34:02',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805242'
+  },
+  {
+    'author': 'PM_ME_STRIPPERS',
+    'resume_author': "here to save m'lady from da niceguys!!!! xDDDDDD",
+    'joined_author': '2017-11-08 00:00:00',
+    'messages_author': 13396,
+    'text_post': ' Michael15651 said: \t\t\tBut if a male were to have plastic surgery then it\'s considered a problem to them. \t\t Click to expand... thats another thing that pisses me off, the negative view and stigma society has towards men getting plastic surgery for their face is just absurd, yet femoids are applauded to " feel better in their own skin" teehee ',
+    'number_post': 7,
+    'id_post': 2408839,
+    'id_post_interaction': [
+      2408788
+    ],
+    'date_post': '2019-04-19 00:52:31',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805265'
+  },
+  {
+    'author': 'ChronicPaincel',
+    'resume_author': 'Captain',
+    'joined_author': '2018-08-13 00:00:00',
+    'messages_author': 1870,
+    'text_post': ' tehgymcel420 said: \t\t\tJust be yourself! \t\t Click to expand... ',
+    'number_post': 8,
+    'id_post': 2408940,
+    'id_post_interaction': [
+      2408786
+    ],
+    'date_post': '2019-04-19 01:40:15',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805287'
+  },
+  {
+    'author': 'Heroic Crusader',
+    'resume_author': 'Recruit',
+    'joined_author': '2019-04-02 00:00:00',
+    'messages_author': 475,
+    'text_post': ' Imagine if tinder even made a joke about banning make up for profile pics. "Muh way of expression!" teehee ',
+    'number_post': 9,
+    'id_post': 2408944,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 01:41:45',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805306'
+  },
+  {
+    'author': 'ihaveno1',
+    'resume_author': 'Luminary',
+    'joined_author': '2018-11-11 00:00:00',
+    'messages_author': 10085,
+    'text_post': ' i fucking hate these clickbait thumbnails that these gay jewtube vloggers make, notice the foid is in differnt lighting and posing weird with her face in the first half to make her look even more ugly in comparison to the second one, whores will never get my view ',
+    'number_post': 10,
+    'id_post': 2409030,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 02:10:57',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805327'
+  },
+  {
+    'author': 'Bangkok or bust',
+    'resume_author': "I'm not living. I'm just killing time.",
+    'joined_author': '2018-03-22 00:00:00',
+    'messages_author': 1289,
+    'text_post': ' If a male is caught with 2cm lifts, or has had laser hair therapy = your thrown on the fire. Even wearing cowboy boots will get you a ribbing unless your over 6ft with them off. Nobody wants males to cheat and gain a marginal 10>20% advantage over their genetics.  Only women can cheat. ',
+    'number_post': 11,
+    'id_post': 2409037,
+    'id_post_interaction': [],
+    'date_post': '2019-04-19 02:14:31',
+    'links': [],
+    'thread': '/threads/this-shit-has-always-annoyed-me.117949/',
+    'crawled_at': '2019-06-18 20:12:03.805347'
+  }
+]

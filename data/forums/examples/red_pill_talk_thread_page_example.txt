@@ -1,0 +1,1100 @@
+{
+  'type': [],
+  'title': 'Proof Good Looking Loser is a Fraud',
+  'link': 'viewtopic.php?f=11&t=1002062',
+  'author_topic': 'cats',
+  'replies': 41,
+  'views': 30916,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.854388'
+}
+{
+  'type': [],
+  'title': 'List of fraudulent people within the seduction communities',
+  'link': 'viewtopic.php?f=11&t=172',
+  'author_topic': 'puanewb',
+  'replies': 67,
+  'views': 48636,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.856241'
+}
+{
+  'type': [],
+  'title': 'RooshV is closing down',
+  'link': 'viewtopic.php?f=11&t=1055087',
+  'author_topic': 'Iced Earth',
+  'replies': 15,
+  'views': 2537,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.857790'
+}
+{
+  'type': [],
+  'title': 'Jacob Prince spends 4mins tellin u the importance of empathy',
+  'link': 'viewtopic.php?f=11&t=1023253',
+  'author_topic': 'Icecutter101',
+  'replies': 21,
+  'views': 3841,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.859296'
+}
+{
+  'type': [],
+  'title': 'Game is vastly overrated',
+  'link': 'viewtopic.php?f=11&t=1054833',
+  'author_topic': 'Paradigm Shift',
+  'replies': 24,
+  'views': 4688,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.860880'
+}
+{
+  'type': [],
+  'title': 'Media does profile on Glasgow PUA, police investigate',
+  'link': 'viewtopic.php?f=11&t=1055385',
+  'author_topic': '666',
+  'replies': 5,
+  'views': 1056,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.862328'
+}
+{
+  'type': [],
+  'title': 'Player Supreme is dead? 2 years ago??',
+  'link': 'viewtopic.php?f=11&t=1055807',
+  'author_topic': 'Icecutter101',
+  'replies': 4,
+  'views': 647,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.863756'
+}
+{
+  'type': [],
+  'title': 'Johnny Berba now spam approaching the WHOLE of London!',
+  'link': 'viewtopic.php?f=11&t=1055768',
+  'author_topic': 'pantysniffer',
+  'replies': 4,
+  'views': 605,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.865225'
+}
+{
+  'type': [],
+  'title': 'Thread deleted due to broken website.',
+  'link': 'viewtopic.php?f=11&t=1055670',
+  'author_topic': 'pantysniffer',
+  'replies': 1,
+  'views': 550,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.866893'
+}
+{
+  'type': [],
+  'title': 'Anyone have the Pic of amanda lyons cheating on adam lyons?',
+  'link': 'viewtopic.php?f=11&t=1055648',
+  'author_topic': '666',
+  'replies': 5,
+  'views': 1233,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.868330'
+}
+{
+  'type': [],
+  'title': '‘Cold approach’ pick up is highly ineffective(insider AMA)',
+  'link': 'viewtopic.php?f=11&t=1055157',
+  'author_topic': 'Acrobar100',
+  'replies': 14,
+  'views': 2493,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.869800'
+}
+{
+  'type': [],
+  'title': 'More Pick Up Autistry from RSD scammers.',
+  'link': 'viewtopic.php?f=11&t=1055355',
+  'author_topic': 'Master Yoda',
+  'replies': 3,
+  'views': 926,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.871270'
+}
+{
+  'type': [],
+  'title': 'Coach Blue Pill (oops I meant Coach Red Pill)',
+  'link': 'viewtopic.php?f=11&t=1055363',
+  'author_topic': 'Master Yoda',
+  'replies': 0,
+  'views': 577,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.872866'
+}
+{
+  'type': [],
+  'title': 'Arash, this guy is a pick up artist?',
+  'link': 'viewtopic.php?f=11&t=1055155',
+  'author_topic': 'Master Yoda',
+  'replies': 13,
+  'views': 1714,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.874333'
+}
+{
+  'type': [],
+  'title': 'New PUA scammer from the USA "JMULV PICK UP"',
+  'link': 'viewtopic.php?f=11&t=1041249',
+  'author_topic': 'Master Yoda',
+  'replies': 15,
+  'views': 2625,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.875770'
+}
+{
+  'type': [],
+  'title': 'Corey Wayne Exposed',
+  'link': 'viewtopic.php?f=11&t=85030',
+  'author_topic': 'beta',
+  'replies': 4,
+  'views': 2541,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.877309'
+}
+{
+  'type': [],
+  'title': "Just when you thought PUA couldn't get any worse, dwarf PUA.",
+  'link': 'viewtopic.php?f=11&t=1055257',
+  'author_topic': 'Master Yoda',
+  'replies': 7,
+  'views': 984,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.878762'
+}
+{
+  'type': [],
+  'title': 'Is Deepak Wayne legit',
+  'link': 'viewtopic.php?f=11&t=1055122',
+  'author_topic': 'frost',
+  'replies': 11,
+  'views': 2226,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.880303'
+}
+{
+  'type': [],
+  'title': '5 Things That destroyed The PUA Industry.',
+  'link': 'viewtopic.php?f=11&t=1055185',
+  'author_topic': 'Master Yoda',
+  'replies': 9,
+  'views': 1658,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.881772'
+}
+{
+  'type': [],
+  'title': 'Camila Cabello dating PUA Mathew Hussey',
+  'link': 'viewtopic.php?f=11&t=1055158',
+  'author_topic': 'Icecutter101',
+  'replies': 18,
+  'views': 2263,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.883411'
+}
+{
+  'type': [],
+  'title': '"The Attractive Man" PUA Videos Scam',
+  'link': 'viewtopic.php?f=11&t=1055129',
+  'author_topic': '3D Face Analysis',
+  'replies': 5,
+  'views': 1435,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.884967'
+}
+{
+  'type': [],
+  'title': 'Cringemax',
+  'link': 'viewtopic.php?f=11&t=1055148',
+  'author_topic': 'RockstarAteMyHamster',
+  'replies': 1,
+  'views': 786,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.886442'
+}
+{
+  'type': [],
+  'title': "Looks like it's over for this Youtuber's PUA career",
+  'link': 'viewtopic.php?f=11&t=1054399',
+  'author_topic': 'Cock a dee',
+  'replies': 9,
+  'views': 3586,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.887870'
+}
+{
+  'type': [],
+  'title': '"M" aka Matt Cross new scam: 7 months to Mastery',
+  'link': 'viewtopic.php?f=11&t=1054869',
+  'author_topic': 'beta',
+  'replies': 1,
+  'views': 1016,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.889382'
+}
+{
+  'type': [],
+  'title': "It's not LMS, but POWER that wins the game",
+  'link': 'viewtopic.php?f=11&t=1018698',
+  'author_topic': 'ThePUAMole',
+  'replies': 17,
+  'views': 4602,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.890886'
+}
+{
+  'type': [],
+  'title': 'Mypuajourney.com guy is back (again). New scam.',
+  'link': 'viewtopic.php?f=11&t=1054430',
+  'author_topic': 'AllWomenAreLikeThat',
+  'replies': 10,
+  'views': 2142,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.892380'
+}
+{
+  'type': [],
+  'title': 'pornstar share advice on text game',
+  'link': 'viewtopic.php?f=11&t=1054742',
+  'author_topic': 'Iced Earth',
+  'replies': 1,
+  'views': 1369,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.893874'
+}
+{
+  'type': [],
+  'title': 'Tim Han aka Success Insider',
+  'link': 'viewtopic.php?f=11&t=1054815',
+  'author_topic': 'Cock a dee',
+  'replies': 1,
+  'views': 662,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.895496'
+}
+{
+  'type': [],
+  'title': 'Best YouTube channels?',
+  'link': 'viewtopic.php?f=11&t=1053175',
+  'author_topic': 'beta',
+  'replies': 5,
+  'views': 2364,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.896955'
+}
+{
+  'type': [],
+  'title': 'Jordan Peterson on PUA',
+  'link': 'viewtopic.php?f=11&t=1054064',
+  'author_topic': 'Iced Earth',
+  'replies': 5,
+  'views': 2749,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.898389'
+}
+{
+  'type': [],
+  'title': 'PUA Training videogame (Superseducer) imminent.GAMERGATE 2.0',
+  'link': 'viewtopic.php?f=11&t=1052546',
+  'author_topic': 'AllWomenAreLikeThat',
+  'replies': 16,
+  'views': 3648,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.899883'
+}
+{
+  'type': [],
+  'title': 'sqauttincasanova owns an Asian cunt.',
+  'link': 'viewtopic.php?f=11&t=15309',
+  'author_topic': 'incelsavior',
+  'replies': 3,
+  'views': 2403,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.901513'
+}
+{
+  'type': [],
+  'title': 'Sonny arvado is the most legit guru.',
+  'link': 'viewtopic.php?f=11&t=18138',
+  'author_topic': 'incelsavior',
+  'replies': 5,
+  'views': 2552,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.902983'
+}
+{
+  'type': [],
+  'title': 'Been cold approaching/doing PUA for 8 yrs... My 2 cents',
+  'link': 'viewtopic.php?f=11&t=1018153',
+  'author_topic': 'Kamouflage',
+  'replies': 231,
+  'views': 48658,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.904774'
+}
+{
+  'type': [],
+  'title': 'why PUA gurus are against prostitution',
+  'link': 'viewtopic.php?f=11&t=1053271',
+  'author_topic': 'AnoddaShoah4U',
+  'replies': 12,
+  'views': 3470,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.906379'
+}
+{
+  'type': [],
+  'title': 'WHAT HAPPENED TO SASHA DAY GAME?',
+  'link': 'viewtopic.php?f=11&t=1053592',
+  'author_topic': 'TonyTTT',
+  'replies': 1,
+  'views': 1200,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.907836'
+}
+{
+  'type': [],
+  'title': "Do roosh's middle eastern roots have anything to do with it?",
+  'link': 'viewtopic.php?f=11&t=7774',
+  'author_topic': 'lookheresthedeal',
+  'replies': 5,
+  'views': 2083,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.909297'
+}
+{
+  'type': [],
+  'title': 'attaccanti forti fifa 2018',
+  'link': 'viewtopic.php?f=11&t=1053429',
+  'author_topic': 'DennisADELE',
+  'replies': 0,
+  'views': 679,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.910725'
+}
+{
+  'type': [],
+  'title': 'Nigger',
+  'link': 'viewtopic.php?f=11&t=1053059',
+  'author_topic': 'BenZyklon',
+  'replies': 5,
+  'views': 2125,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.912304'
+}
+{
+  'type': [],
+  'title': 'justin wayne finally exposed',
+  'link': 'viewtopic.php?f=11&t=1053120',
+  'author_topic': '666',
+  'replies': 11,
+  'views': 2469,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.913896'
+}
+{
+  'type': [],
+  'title': "What is RSD Jeffy's real name?",
+  'link': 'viewtopic.php?f=11&t=1053366',
+  'author_topic': 'TonyTTT',
+  'replies': 2,
+  'views': 1150,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.915342'
+}
+{
+  'type': [],
+  'title': 'Hookup culture is a myth',
+  'link': 'viewtopic.php?f=11&t=1053338',
+  'author_topic': 'wannabe',
+  'replies': 10,
+  'views': 2648,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.916833'
+}
+{
+  'type': [],
+  'title': 'Pandora UK release mysterious Disney attraction',
+  'link': 'viewtopic.php?f=11&t=1053360',
+  'author_topic': 'Giesen',
+  'replies': 0,
+  'views': 798,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.918442'
+}
+{
+  'type': [],
+  'title': 'No woman is consciously aware of their underlying process.',
+  'link': 'viewtopic.php?f=11&t=1053345',
+  'author_topic': 'Eugenicist',
+  'replies': 2,
+  'views': 1183,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.920056'
+}
+{
+  'type': [],
+  'title': 'PUATRAINING & pick-up-artist-forum.com.Now confirmed closed!',
+  'link': 'viewtopic.php?f=11&t=1041143',
+  'author_topic': 'AllWomenAreLikeThat',
+  'replies': 14,
+  'views': 3202,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.921762'
+}
+{
+  'type': [],
+  'title': 'Post Bump - Slandering an Ex-PUA',
+  'link': 'viewtopic.php?f=11&t=1053336',
+  'author_topic': 'DCRoberts',
+  'replies': 0,
+  'views': 783,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.923318'
+}
+{
+  'type': [],
+  'title': 'Leftists/ women are unironically no different than nazis.',
+  'link': 'viewtopic.php?f=11&t=1053247',
+  'author_topic': 'Eugenicist',
+  'replies': 5,
+  'views': 1522,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.925053'
+}
+{
+  'type': [],
+  'title': 'Fool People.',
+  'link': 'viewtopic.php?f=11&t=1053064',
+  'author_topic': 'Eugenicist',
+  'replies': 4,
+  'views': 1352,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.926547'
+}
+{
+  'type': [],
+  'title': 'better ways for improving humanity than "natural" selection',
+  'link': 'viewtopic.php?f=11&t=1053219',
+  'author_topic': 'Eugenicist',
+  'replies': 2,
+  'views': 1008,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.928020'
+}
+{
+  'type': [],
+  'title': "Primality vs Edificality. It's not like you incels want.",
+  'link': 'viewtopic.php?f=11&t=1052632',
+  'author_topic': 'Eugenicist',
+  'replies': 6,
+  'views': 1496,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.929510'
+}
+{
+  'type': [],
+  'title': 'The great Geno Hygienist shall keep posting.',
+  'link': 'viewtopic.php?f=11&t=1053220',
+  'author_topic': 'Eugenicist',
+  'replies': 2,
+  'views': 858,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.931088'
+}
+{
+  'type': [],
+  'title': 'Moral of twilight',
+  'link': 'viewtopic.php?f=11&t=1053185',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 739,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.932595'
+}
+{
+  'type': [],
+  'title': 'Why people care about "certain" people\'s validation.',
+  'link': 'viewtopic.php?f=11&t=1053184',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 696,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.934078'
+}
+{
+  'type': [],
+  'title': 'World is not accommodating, it is eliminative.',
+  'link': 'viewtopic.php?f=11&t=1053173',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 817,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.935564'
+}
+{
+  'type': [],
+  'title': "Women aren't unaware of the science behind their criteria.",
+  'link': 'viewtopic.php?f=11&t=1053172',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 920,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.937160'
+}
+{
+  'type': [],
+  'title': 'what does SJW mean?',
+  'link': 'viewtopic.php?f=11&t=1053154',
+  'author_topic': 'TonyTTT',
+  'replies': 4,
+  'views': 1255,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.938639'
+}
+{
+  'type': [],
+  'title': 'LOL @ article saying women are better at crisis situations.',
+  'link': 'viewtopic.php?f=11&t=1053160',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 775,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.940126'
+}
+{
+  'type': [],
+  'title': 'Why you should support cryptocurrencies for the NWO',
+  'link': 'viewtopic.php?f=11&t=1053153',
+  'author_topic': 'BenZyklon',
+  'replies': 3,
+  'views': 1376,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.941728'
+}
+{
+  'type': [],
+  'title': 'JMULV IS A HERO!',
+  'link': 'viewtopic.php?f=11&t=1046251',
+  'author_topic': 'TonyTTT',
+  'replies': 6,
+  'views': 1867,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.943192'
+}
+{
+  'type': [],
+  'title': 'Wonderful.',
+  'link': 'viewtopic.php?f=11&t=1053148',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 707,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.944682'
+}
+{
+  'type': [],
+  'title': 'dad actually fucking said women got more emotional fortitude',
+  'link': 'viewtopic.php?f=11&t=1053143',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 790,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.946202'
+}
+{
+  'type': [],
+  'title': 'No one wants attention from altruism... but from admiration.',
+  'link': 'viewtopic.php?f=11&t=1053139',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 760,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.947778'
+}
+{
+  'type': [],
+  'title': 'Choking an Asian girl is like squeezing a watermelon',
+  'link': 'viewtopic.php?f=11&t=1053138',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 1034,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.949258'
+}
+{
+  'type': [],
+  'title': 'Positivity Quotes. Tfffft.',
+  'link': 'viewtopic.php?f=11&t=1053125',
+  'author_topic': 'Eugenicist',
+  'replies': 2,
+  'views': 756,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.950745'
+}
+{
+  'type': [],
+  'title': "You're entertaining.",
+  'link': 'viewtopic.php?f=11&t=1053129',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 709,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.952243'
+}
+{
+  'type': [],
+  'title': 'School shootings are outdated',
+  'link': 'viewtopic.php?f=11&t=1053084',
+  'author_topic': 'BenZyklon',
+  'replies': 3,
+  'views': 1216,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.953817'
+}
+{
+  'type': [],
+  'title': 'Another irony of PUA.',
+  'link': 'viewtopic.php?f=11&t=1053121',
+  'author_topic': 'Eugenicist',
+  'replies': 1,
+  'views': 915,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.955300'
+}
+{
+  'type': [],
+  'title': 'Girls I know thinks Harvey Weinstein is hot.',
+  'link': 'viewtopic.php?f=11&t=1053100',
+  'author_topic': 'Eugenicist',
+  'replies': 8,
+  'views': 1533,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.956816'
+}
+{
+  'type': [],
+  'title': 'Dis my turf now bitches.',
+  'link': 'viewtopic.php?f=11&t=1053102',
+  'author_topic': 'Eugenicist',
+  'replies': 1,
+  'views': 891,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.958299'
+}
+{
+  'type': [],
+  'title': 'Anyone who doesnt wanna end all nigs is complacently asleep.',
+  'link': 'viewtopic.php?f=11&t=1053101',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 685,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.959952'
+}
+{
+  'type': [],
+  'title': 'Women ARE cognizant of their behavior.',
+  'link': 'viewtopic.php?f=11&t=1053099',
+  'author_topic': 'Eugenicist',
+  'replies': 1,
+  'views': 887,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.961441'
+}
+{
+  'type': [],
+  'title': 'If you are ugly then you are a legit victim.',
+  'link': 'viewtopic.php?f=11&t=1053098',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 862,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.962922'
+}
+{
+  'type': [],
+  'title': 'Women have low pressure tolerance even in vying for Chad.',
+  'link': 'viewtopic.php?f=11&t=1053089',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 814,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.964406'
+}
+{
+  'type': [],
+  'title': "Women don't give you a 2nd conversation if you faux pas once",
+  'link': 'viewtopic.php?f=11&t=1053072',
+  'author_topic': 'Eugenicist',
+  'replies': 7,
+  'views': 1680,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.965997'
+}
+{
+  'type': [],
+  'title': 'Leverage in relationship. Semipartisans rule the Pursuers.',
+  'link': 'viewtopic.php?f=11&t=1053086',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 560,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.967445'
+}
+{
+  'type': [],
+  'title': "I'm back.",
+  'link': 'viewtopic.php?f=11&t=1053063',
+  'author_topic': 'Eugenicist',
+  'replies': 5,
+  'views': 1215,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.968920'
+}
+{
+  'type': [],
+  'title': 'Roosh V is right: this is the reason of our pain',
+  'link': 'viewtopic.php?f=11&t=1053055',
+  'author_topic': 'wannabe',
+  'replies': 10,
+  'views': 2508,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.970393'
+}
+{
+  'type': [],
+  'title': 'Better to be an imperialist',
+  'link': 'viewtopic.php?f=11&t=1053076',
+  'author_topic': 'Eugenicist',
+  'replies': 1,
+  'views': 682,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.972035'
+}
+{
+  'type': [],
+  'title': 'When are you old by slutscales?',
+  'link': 'viewtopic.php?f=11&t=1052890',
+  'author_topic': 'Eugenicist',
+  'replies': 10,
+  'views': 1994,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.973589'
+}
+{
+  'type': [],
+  'title': "Let's talk The Fearless Man",
+  'link': 'viewtopic.php?f=11&t=1053060',
+  'author_topic': 'beta',
+  'replies': 0,
+  'views': 699,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.975104'
+}
+{
+  'type': [],
+  'title': 'Chaturbate discussion',
+  'link': 'viewtopic.php?f=11&t=1052826',
+  'author_topic': 'wannabe',
+  'replies': 17,
+  'views': 2379,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.976721'
+}
+{
+  'type': [],
+  'title': 'How are low value women ranking up in our society? [Link]',
+  'link': 'viewtopic.php?f=11&t=1053048',
+  'author_topic': 'BenZyklon',
+  'replies': 2,
+  'views': 1108,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.978169'
+}
+{
+  'type': [],
+  'title': 'Scientists cast doubt on the existence of human pheremones',
+  'link': 'viewtopic.php?f=11&t=1052955',
+  'author_topic': 'beta',
+  'replies': 6,
+  'views': 1476,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.979629'
+}
+{
+  'type': [],
+  'title': 'Normies say cynics were bullied',
+  'link': 'viewtopic.php?f=11&t=1053002',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 687,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.981084'
+}
+{
+  'type': [],
+  'title': 'Sure women wanna have fun... BUT',
+  'link': 'viewtopic.php?f=11&t=1052979',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 890,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.982654'
+}
+{
+  'type': [],
+  'title': 'Gymcelling is pointless.',
+  'link': 'viewtopic.php?f=11&t=1052977',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 912,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.984366'
+}
+{
+  'type': [],
+  'title': 'Women like being snooty. Game = irrelevant. Patricianarchy.',
+  'link': 'viewtopic.php?f=11&t=1052969',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 754,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.986523'
+}
+{
+  'type': [],
+  'title': 'Inner confidence without external activity is useless.',
+  'link': 'viewtopic.php?f=11&t=1052959',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 583,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.988100'
+}
+{
+  'type': [],
+  'title': 'Attractive girl tells it like it is-calls out PUAs',
+  'link': 'viewtopic.php?f=11&t=1052839',
+  'author_topic': 'beta',
+  'replies': 2,
+  'views': 1152,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.989873'
+}
+{
+  'type': [],
+  'title': 'Asians/ jews are funny.',
+  'link': 'viewtopic.php?f=11&t=1052954',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 624,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.991482'
+}
+{
+  'type': [],
+  'title': 'Women want cooldood swagmasters most of the time... BUT...',
+  'link': 'viewtopic.php?f=11&t=1052805',
+  'author_topic': 'Eugenicist',
+  'replies': 11,
+  'views': 1728,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.993103'
+}
+{
+  'type': [],
+  'title': "Liking a woman with a low self esteem won't work always.",
+  'link': 'viewtopic.php?f=11&t=1052880',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 673,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.994628'
+}
+{
+  'type': [],
+  'title': 'Blacks are randomly confrontational and aggressive.',
+  'link': 'viewtopic.php?f=11&t=1052875',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 718,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.996355'
+}
+{
+  'type': [],
+  'title': 'Why asians are so aloof and unexpressionate',
+  'link': 'viewtopic.php?f=11&t=1052835',
+  'author_topic': 'Eugenicist',
+  'replies': 6,
+  'views': 1243,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.997824'
+}
+{
+  'type': [],
+  'title': 'Lol',
+  'link': 'viewtopic.php?f=11&t=1052857',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 601,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:43.999331'
+}
+{
+  'type': [],
+  'title': 'God I hate fucking Asians and their sneaky snideness.',
+  'link': 'viewtopic.php?f=11&t=1052856',
+  'author_topic': 'Eugenicist',
+  'replies': 0,
+  'views': 686,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:44.001263'
+}
+{
+  'type': [],
+  'title': 'Nothing makes people more sociopathic than loneliness.',
+  'link': 'viewtopic.php?f=11&t=1052689',
+  'author_topic': 'Eugenicist',
+  'replies': 15,
+  'views': 2653,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:44.002992'
+}
+{
+  'type': [],
+  'title': 'You gotta at least go through 100 girls to get their swing.',
+  'link': 'viewtopic.php?f=11&t=1052733',
+  'author_topic': 'Eugenicist',
+  'replies': 15,
+  'views': 2479,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:44.004523'
+}
+{
+  'type': [],
+  'title': 'Super Seducer is the Worst Game ever',
+  'link': 'viewtopic.php?f=11&t=1052848',
+  'author_topic': 'beta',
+  'replies': 0,
+  'views': 578,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:44.006035'
+}
+{
+  'type': [],
+  'title': 'Confidence is flamboyantly faggish. Have Justified Arrogance',
+  'link': 'viewtopic.php?f=11&t=1052543',
+  'author_topic': 'Eugenicist',
+  'replies': 72,
+  'views': 8515,
+  'subforum': 'Bash the Scene',
+  'collected': False,
+  'crawled_idx_at': '2019-06-24 20:17:44.007883'
+}

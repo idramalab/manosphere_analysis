@@ -1,0 +1,468 @@
+{
+  'type': [
+    'announcement'
+  ],
+  'title': 'NEW RULES: Casual sex and hooking up can no longer be discussed on the forum',
+  'link': 'announcement-20.html',
+  'author_topic': 'Roosh',
+  'replies': 1,
+  'views': None,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.626757'
+}
+{
+  'type': [
+    'announcement'
+  ],
+  'title': '***** ROOSH USA TOUR 2019 *****',
+  'link': 'announcement-19.html',
+  'author_topic': 'Roosh',
+  'replies': 1,
+  'views': None,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.629214'
+}
+{
+  'type': [
+    'sticky'
+  ],
+  'title': 'Reviews of my books',
+  'link': 'thread-11234.html',
+  'author_topic': 'Roosh',
+  'replies': 49,
+  'views': 107212,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.634480'
+}
+{
+  'type': [],
+  'title': 'White ethno-nationalist falling for dark skinned Mauritian beauty - mixed kids, NWO',
+  'link': 'thread-72288.html',
+  'author_topic': 'PixelFree',
+  'replies': 213,
+  'views': 21847,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.638966'
+}
+{
+  'type': [],
+  'title': 'Discussion Regarding Love',
+  'link': 'thread-73549.html',
+  'author_topic': 'EndsExpect',
+  'replies': 29,
+  'views': 1136,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.642514'
+}
+{
+  'type': [],
+  'title': 'I think eventually we will all become like Roosh',
+  'link': 'thread-73282.html',
+  'author_topic': 'NextStop100',
+  'replies': 90,
+  'views': 13482,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.646121'
+}
+{
+  'type': [],
+  'title': "Short Term Relationship Game is Best It's Ever Been",
+  'link': 'thread-73366.html',
+  'author_topic': 'copperwire',
+  'replies': 13,
+  'views': 2359,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.649761'
+}
+{
+  'type': [],
+  'title': 'Disadvantages for good looking guys',
+  'link': 'thread-7069.html',
+  'author_topic': 'Screwston',
+  'replies': 312,
+  'views': 238677,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.653752'
+}
+{
+  'type': [],
+  'title': 'Are my testosterone levels impacting my game?',
+  'link': 'thread-72981.html',
+  'author_topic': 'Phanes',
+  'replies': 6,
+  'views': 1502,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.656979'
+}
+{
+  'type': [],
+  'title': 'Moma and RudeBwoy RoundTable Discussion on Black Man Game Options',
+  'link': 'thread-44508.html',
+  'author_topic': 'Moma',
+  'replies': 10709,
+  'views': 2580963,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.661114'
+}
+{
+  'type': [],
+  'title': 'Healthier Ways Of Moving On From Ex',
+  'link': 'thread-73302.html',
+  'author_topic': 'MaceTyrell',
+  'replies': 49,
+  'views': 3820,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.664488'
+}
+{
+  'type': [],
+  'title': 'Retiring from the game at 40?',
+  'link': 'thread-73434.html',
+  'author_topic': 'LoveBug',
+  'replies': 38,
+  'views': 4005,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.667655'
+}
+{
+  'type': [],
+  'title': 'Does everyone get ghosted on, flaked on, rejected, etc?',
+  'link': 'thread-73540.html',
+  'author_topic': 'Janardan',
+  'replies': 19,
+  'views': 1461,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.670590'
+}
+{
+  'type': [],
+  'title': 'Is There A Point Of Diminishing Returns On Weightlifting And Attracting Girls?',
+  'link': 'thread-32580.html',
+  'author_topic': 'Christian McQueen',
+  'replies': 1049,
+  'views': 403396,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.674992'
+}
+{
+  'type': [],
+  'title': "The best online opener I've come up with yet",
+  'link': 'thread-54280.html',
+  'author_topic': 'SomeFcksGiven',
+  'replies': 123,
+  'views': 51391,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.678751'
+}
+{
+  'type': [],
+  'title': 'Older Guys (40+)',
+  'link': 'thread-30.html',
+  'author_topic': 'broken',
+  'replies': 3129,
+  'views': 1351738,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.682891'
+}
+{
+  'type': [],
+  'title': "Player's Log / Lounge",
+  'link': 'thread-24128.html',
+  'author_topic': 'soup',
+  'replies': 11961,
+  'views': 3502067,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.687198'
+}
+{
+  'type': [],
+  'title': 'Strange Irony of Attraction: Very Good Looking Guys Treated Like Ugly Guys',
+  'link': 'thread-73252.html',
+  'author_topic': 'copperwire',
+  'replies': 52,
+  'views': 9698,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.690624'
+}
+{
+  'type': [],
+  'title': 'Solo Bar game in 2019',
+  'link': 'thread-73515.html',
+  'author_topic': 'Elmore',
+  'replies': 26,
+  'views': 2765,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.694115'
+}
+{
+  'type': [],
+  'title': 'Do you guys learn from text flakes and more?',
+  'link': 'thread-72445.html',
+  'author_topic': 'Kentemo',
+  'replies': 9,
+  'views': 1412,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.697147'
+}
+{
+  'type': [],
+  'title': 'Lessons learned from Colombia (a hitchhiker, was she a pro?, drink thrown in face...',
+  'link': 'thread-73439.html',
+  'author_topic': 'finalstep',
+  'replies': 9,
+  'views': 1669,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.700211'
+}
+{
+  'type': [],
+  'title': 'Tourist game in USA',
+  'link': 'thread-73486.html',
+  'author_topic': 'finalstep',
+  'replies': 7,
+  'views': 1055,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.703460'
+}
+{
+  'type': [],
+  'title': '"Hate fuck" + fight for dominance = best sex possible ?',
+  'link': 'thread-73521.html',
+  'author_topic': 'Leonide',
+  'replies': 7,
+  'views': 1427,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.706485'
+}
+{
+  'type': [],
+  'title': 'Finding a Religious Wife - Discussion',
+  'link': 'thread-73280.html',
+  'author_topic': 'EndsExpect',
+  'replies': 62,
+  'views': 7203,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.709924'
+}
+{
+  'type': [],
+  'title': "Gf Saying Some Guy On TV Is 'So Hot'. How Would You React?",
+  'link': 'thread-54742.html',
+  'author_topic': 'Anabasis to Desta',
+  'replies': 135,
+  'views': 44198,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.713593'
+}
+{
+  'type': [],
+  'title': 'Online Game: Is Instagram worth the pain in the ass?',
+  'link': 'thread-72832.html',
+  'author_topic': 'Sangango',
+  'replies': 115,
+  'views': 13516,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.717233'
+}
+{
+  'type': [],
+  'title': 'Is she really the ONE? ways to find out if she is a good girl',
+  'link': 'thread-73544.html',
+  'author_topic': 'Georgepithyou',
+  'replies': 2,
+  'views': 814,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.720175'
+}
+{
+  'type': [],
+  'title': "Spittin' Cobra - Chats with Masculine Men! (A Podcast)",
+  'link': 'thread-73464.html',
+  'author_topic': 'Cobra',
+  'replies': 14,
+  'views': 1702,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.723283'
+}
+{
+  'type': [],
+  'title': 'How I got over my fear of going out solo',
+  'link': 'thread-9960.html',
+  'author_topic': 'Screwston',
+  'replies': 155,
+  'views': 102503,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.727198'
+}
+{
+  'type': [],
+  'title': 'Good restart texts to send',
+  'link': 'thread-6198.html',
+  'author_topic': 'Parlay44',
+  'replies': 83,
+  'views': 82060,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.730847'
+}
+{
+  'type': [],
+  'title': 'TanTan - anyone use it?',
+  'link': 'thread-68762.html',
+  'author_topic': 'WannaBang',
+  'replies': 29,
+  'views': 8882,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.734168'
+}
+{
+  'type': [],
+  'title': 'How to tell if sex will be good / compatible before marriage?',
+  'link': 'thread-73484.html',
+  'author_topic': 'dirty_old',
+  'replies': 20,
+  'views': 2193,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.737292'
+}
+{
+  'type': [],
+  'title': 'Church game',
+  'link': 'thread-73261.html',
+  'author_topic': 'Jnx',
+  'replies': 44,
+  'views': 8656,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.741066'
+}
+{
+  'type': [],
+  'title': 'Dangers of "Settling Down" at 40+',
+  'link': 'thread-73090.html',
+  'author_topic': 'PantyPeeler',
+  'replies': 221,
+  'views': 26749,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.745236'
+}
+{
+  'type': [],
+  'title': 'Tinder App',
+  'link': 'thread-19115.html',
+  'author_topic': 'BudgetGlobetrotting',
+  'replies': 8396,
+  'views': 3505135,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.749487'
+}
+{
+  'type': [],
+  'title': "A high notch count (100's) messes you up",
+  'link': 'thread-72150.html',
+  'author_topic': 'LatinaLova',
+  'replies': 122,
+  'views': 22604,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.753002'
+}
+{
+  'type': [],
+  'title': 'Christian Mingle in Australia - worth the $?',
+  'link': 'thread-73331.html',
+  'author_topic': 'PixelFree',
+  'replies': 7,
+  'views': 1592,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.756150'
+}
+{
+  'type': [],
+  'title': 'Too much abundance mentality',
+  'link': 'thread-73348.html',
+  'author_topic': 'Balls_Hang_Low',
+  'replies': 6,
+  'views': 1916,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.759138'
+}
+{
+  'type': [],
+  'title': "A women's sexual orientation and game",
+  'link': 'thread-72814.html',
+  'author_topic': 'Benjamin88',
+  'replies': 15,
+  'views': 2187,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.762301'
+}
+{
+  'type': [],
+  'title': 'How To Significantly Increase Sex Drive',
+  'link': 'thread-73098.html',
+  'author_topic': 'dreadcom',
+  'replies': 76,
+  'views': 9635,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.765781'
+}
+{
+  'type': [],
+  'title': 'Request: Guide to Photographer Game',
+  'link': 'thread-73219.html',
+  'author_topic': 'EmpireState',
+  'replies': 7,
+  'views': 1566,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.768882'
+}
+{
+  'type': [],
+  'title': 'Watching Seinfeld Before Going Out',
+  'link': 'thread-8990.html',
+  'author_topic': 'Nudge',
+  'replies': 55,
+  'views': 37113,
+  'subforum': 'Game',
+  'collected': False,
+  'crawled_idx_at': '2019-06-28 15:36:53.772361'
+}

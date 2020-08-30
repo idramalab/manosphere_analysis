@@ -1,0 +1,162 @@
+{
+  'type': [
+    'Sticky'
+  ],
+  'title': 'Why You Should Read Magic Bullets',
+  'link': 'showthread.php?t=132664',
+  'author_topic': 'Jeremy Soul',
+  'replies': 19,
+  'views': 35310,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.604389'
+}
+{
+  'type': [
+    'Sticky'
+  ],
+  'title': "Read this first - it's short",
+  'link': 'showthread.php?t=132093',
+  'author_topic': 'Administrator',
+  'replies': 0,
+  'views': 26845,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.608515'
+}
+{
+  'type': [
+    'Sticky'
+  ],
+  'title': 'Game FAQs',
+  'link': 'showthread.php?t=137934',
+  'author_topic': 'Savoy',
+  'replies': 0,
+  'views': 33946,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.612628'
+}
+{
+  'type': [
+    'Sticky'
+  ],
+  'title': 'Glossary of Common Terms and Acronyms',
+  'link': 'showthread.php?t=156660',
+  'author_topic': 'MiLLo',
+  'replies': 0,
+  'views': 40918,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.616559'
+}
+{
+  'type': [],
+  'title': 'The 15 Laws of Attraction',
+  'link': 'showthread.php?t=132661',
+  'author_topic': 'sphin',
+  'replies': 0,
+  'views': 32814,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.620217'
+}
+{
+  'type': [],
+  'title': 'Are you in the SOUP?',
+  'link': 'showthread.php?t=132662',
+  'author_topic': 'sphin',
+  'replies': 0,
+  'views': 10197,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.623904'
+}
+{
+  'type': [],
+  'title': '10 Secrets to a Successful Approach',
+  'link': 'showthread.php?t=132660',
+  'author_topic': 'sphin',
+  'replies': 0,
+  'views': 19225,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.627685'
+}
+{
+  'type': [],
+  'title': 'Dating 101 - getting started',
+  'link': 'showthread.php?t=132095',
+  'author_topic': 'Administrator',
+  'replies': 0,
+  'views': 19648,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.631592'
+}
+{
+  'type': [],
+  'title': 'Pickup Explained -- in video',
+  'link': 'showthread.php?t=132096',
+  'author_topic': 'Administrator',
+  'replies': 0,
+  'views': 9004,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.635143'
+}
+{
+  'type': [],
+  'title': 'How to get the most out of this place',
+  'link': 'showthread.php?t=132097',
+  'author_topic': 'Administrator',
+  'replies': 0,
+  'views': 9470,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.638819'
+}
+{
+  'type': [],
+  'title': '10 Deadly Sins of Approaching',
+  'link': 'showthread.php?t=135149',
+  'author_topic': 'Savoy',
+  'replies': 0,
+  'views': 15959,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.642249'
+}
+{
+  'type': [],
+  'title': '10 Deadly Sins of Transitioning',
+  'link': 'showthread.php?t=135903',
+  'author_topic': 'Savoy',
+  'replies': 0,
+  'views': 12643,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.646045'
+}
+{
+  'type': [],
+  'title': 'New Video: Common mistakes guys make in the first five minutes',
+  'link': 'showthread.php?t=138037',
+  'author_topic': 'Savoy',
+  'replies': 1,
+  'views': 10436,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.649704'
+}
+{
+  'type': [],
+  'title': "How to use the new 'Likes' feature.",
+  'link': 'showthread.php?t=139862',
+  'author_topic': 'Stallion',
+  'replies': 0,
+  'views': 8911,
+  'subforum': 'New? START HERE!',
+  'collected': False,
+  'crawled_idx_at': '2019-06-25 10:18:41.653272'
+}

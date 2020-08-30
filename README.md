@@ -1,15 +1,25 @@
-## The Evolution of the Manosphere Across the Web
+# The Evolution of the Manosphere Across the Web
 
-Analyses were done in Jupyter notebooks that are in the `/notebooks/` folder.
+This repo contains the data and the analysis done in the paper "The Evolution of the Manosphere Across the Web".
 
-## Commands to Make Helper Files
+~~~bibtex
+@article{ribeiroevolution2021,
+    title={The Evolution of the Manosphere Across the Web},
+    author={Ribeiro, Manoel Horta and Blackburn, Jeremy and Bradlyn, Barry and De Cristofaro, Emiliano and Stringhini, Gianluca and Long, Summer and Greenberg, Stephanie and Zannettou, Savvas},
+    booktitle = {{Proceedings of the 15th International AAAI Conference on Weblogs and Social Media (ICWSM'21)}},
+    year={2021}
+}
+~~~
 
-     python ./scripts/get_helper.py --src /data/savvas/incels/data/incels_comments_reddit_lower.ndjson --src /data/savvas/incels/data/inceltears_comments.ndjson --src /data/savvas/incels/data/json/control/reddit/gaming/reddit_gaming_comments.ndjson --src /data/savvas/incels/data/json/control/reddit/random/reddit_random_comments.ndjson --kind all --kind all --kind gaming --kind random --dst /data/savvas/incels/data/
-     
-and
+Analyses were done in Jupyter notebooks that are in the `/notebooks/` folder:
+
+- `activity_and_popularity.ipynb`reproduces Figure 1 of the paper;
+- `users_intersection.ipynb` reproduces Figure 2 of the paper;
+- `users_migration.ipynb` reproduces Figure 3 of the paper;
+- `toxicity_and_misoginy.ipynb` reproduces Figure 4 of the paper;
+
+# Data
+
+Data description stuff can be found in `/data/`.
  
-    python ./scripts/get_helper.py --src /data/savvas/incels/data/incels_comments_reddit_lower.ndjson --src /data/savvas/incels/data/inceltears_comments.ndjson --src /data/savvas/incels/data/json/control/reddit/gaming/reddit_gaming_comments.ndjson --src /data/savvas/incels/data/json/control/reddit/random/reddit_random_comments.ndjson --kind all --kind all --kind gaming --kind random --dst /data/savvas/incels/data/ --author_dict
 
-and (for perspective)
-
-     python ./scripts/get_perspective.py --src /data/savvas/incels/data/json/perspective/perspective_redditall_results.txt --dst /data/savvas/incels/data/perspective_dict.sqlite

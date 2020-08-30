@@ -1,0 +1,572 @@
+{
+  'type': None,
+  'title': 'READ THIS! Personal information privacy: best practices',
+  'link': './viewtopic.php?f=4&t=11619',
+  'author_topic': 'B-1B Lancer',
+  'replies': 10,
+  'views': 1512,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.736832'
+}
+{
+  'type': None,
+  'title': 'THE RULES. Read them and weep. UPDATED 11-28-17',
+  'link': './viewtopic.php?f=4&t=2846',
+  'author_topic': 'Rammspieler',
+  'replies': 0,
+  'views': 6510,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.739118'
+}
+{
+  'type': None,
+  'title': 'MEMBER INTRODUCTIONS THREAD',
+  'link': './viewtopic.php?f=4&t=13044',
+  'author_topic': 'B-1B Lancer',
+  'replies': 711,
+  'views': 12044,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.742037'
+}
+{
+  'type': None,
+  'title': 'Politics',
+  'link': './viewtopic.php?f=4&t=28950',
+  'author_topic': 'Catapault55',
+  'replies': 3011,
+  'views': 19608,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.744519'
+}
+{
+  'type': None,
+  'title': 'External links and random comment thread',
+  'link': './viewtopic.php?f=4&t=29313',
+  'author_topic': 'B-1B Lancer',
+  'replies': 528,
+  'views': 3507,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.747189'
+}
+{
+  'type': None,
+  'title': 'Official Sports thread, with predictions!',
+  'link': './viewtopic.php?f=4&t=21314',
+  'author_topic': 'Mr C.',
+  'replies': 1216,
+  'views': 5665,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.750125'
+}
+{
+  'type': None,
+  'title': 'How RedPill/MGTOW/alt-right makes your problems worse.',
+  'link': './viewtopic.php?f=4&t=30532',
+  'author_topic': 'Mr C.',
+  'replies': 148,
+  'views': 1641,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.752757'
+}
+{
+  'type': None,
+  'title': 'What games are you all playing right now?',
+  'link': './viewtopic.php?f=4&t=27456',
+  'author_topic': 'TheCounter',
+  'replies': 532,
+  'views': 4015,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.755280'
+}
+{
+  'type': None,
+  'title': "post whatever you're listening to right now",
+  'link': './viewtopic.php?f=4&t=11474',
+  'author_topic': 'pazzy',
+  'replies': 2657,
+  'views': 16780,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.758191'
+}
+{
+  'type': None,
+  'title': 'What are you watching right now? (Movies/TV/Netflix)',
+  'link': './viewtopic.php?f=4&t=30074',
+  'author_topic': 'Marcionite',
+  'replies': 229,
+  'views': 1959,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.760648'
+}
+{
+  'type': None,
+  'title': 'My book on incel is finally finished!',
+  'link': './viewtopic.php?f=4&t=24326',
+  'author_topic': 'alone99',
+  'replies': 239,
+  'views': 4732,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.763178'
+}
+{
+  'type': None,
+  'title': 'Survey fillout request from Alana',
+  'link': './viewtopic.php?f=4&t=30964',
+  'author_topic': 'Mr C.',
+  'replies': 6,
+  'views': 200,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.765393'
+}
+{
+  'type': None,
+  'title': 'Hola, IceCat, mi amigo!!!',
+  'link': './viewtopic.php?f=4&t=31012',
+  'author_topic': 'Little Marky',
+  'replies': 10,
+  'views': 75,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.767707'
+}
+{
+  'type': None,
+  'title': "What's cookin good lookin?",
+  'link': './viewtopic.php?f=4&t=31010',
+  'author_topic': 'Godzilla',
+  'replies': 50,
+  'views': 390,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.770255'
+}
+{
+  'type': None,
+  'title': 'Why all the hate for "The Last Jedi" ?',
+  'link': './viewtopic.php?f=4&t=30738',
+  'author_topic': 'SuperJeff',
+  'replies': 21,
+  'views': 229,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.772680'
+}
+{
+  'type': None,
+  'title': 'Just lost my virginity to an escort. Horrific experience',
+  'link': './viewtopic.php?f=4&t=29187',
+  'author_topic': 'vegeta2',
+  'replies': 103,
+  'views': 1520,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.775178'
+}
+{
+  'type': None,
+  'title': 'So older men, no longer have relationships with young women?',
+  'link': './viewtopic.php?f=4&t=31014',
+  'author_topic': 'noteasylover',
+  'replies': 23,
+  'views': 212,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.777648'
+}
+{
+  'type': None,
+  'title': 'Around 5 Months of No Fap and Alcohol',
+  'link': './viewtopic.php?f=4&t=31016',
+  'author_topic': 'metalized',
+  'replies': 13,
+  'views': 85,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.779818'
+}
+{
+  'type': None,
+  'title': 'The current U.S. Supreme Court, Opinions ?',
+  'link': './viewtopic.php?f=4&t=30880',
+  'author_topic': 'SuperJeff',
+  'replies': 11,
+  'views': 103,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.781971'
+}
+{
+  'type': None,
+  'title': 'Article about Real Life 40 Year Old Virgins',
+  'link': './viewtopic.php?f=4&t=30994',
+  'author_topic': 'SuperJeff',
+  'replies': 24,
+  'views': 214,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.784422'
+}
+{
+  'type': None,
+  'title': 'Who else Holds Grudges Forever ? Never forgives or forgets ?',
+  'link': './viewtopic.php?f=4&t=30234',
+  'author_topic': 'SuperJeff',
+  'replies': 197,
+  'views': 1192,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.786889'
+}
+{
+  'type': None,
+  'title': 'Anyone else Not like the Term EDP',
+  'link': './viewtopic.php?f=4&t=29530',
+  'author_topic': 'SuperJeff',
+  'replies': 33,
+  'views': 366,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.789435'
+}
+{
+  'type': None,
+  'title': "I've set a deadline",
+  'link': './viewtopic.php?f=4&t=31015',
+  'author_topic': 'CarefulReader',
+  'replies': 5,
+  'views': 96,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.791514'
+}
+{
+  'type': None,
+  'title': 'I start crying at times, Also Often I Lack Faith in God',
+  'link': './viewtopic.php?f=4&t=30454',
+  'author_topic': 'SuperJeff',
+  'replies': 112,
+  'views': 665,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.794180'
+}
+{
+  'type': None,
+  'title': 'The School Days Poll, 2019 Edition',
+  'link': './viewtopic.php?f=4&t=30999',
+  'author_topic': 'ieatboogers',
+  'replies': 2,
+  'views': 53,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.796388'
+}
+{
+  'type': None,
+  'title': 'Which poster would you swap places with for a day?',
+  'link': './viewtopic.php?f=4&t=30945',
+  'author_topic': 'ukshygirl',
+  'replies': 69,
+  'views': 761,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.799083'
+}
+{
+  'type': None,
+  'title': "Its not about our looks, Its cause we're socially awkward",
+  'link': './viewtopic.php?f=4&t=29852',
+  'author_topic': 'letmethink',
+  'replies': 274,
+  'views': 3379,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.801626'
+}
+{
+  'type': None,
+  'title': 'The other day Twitter notified me about an incel killer...',
+  'link': './viewtopic.php?f=4&t=31008',
+  'author_topic': 'Reanimated',
+  'replies': 6,
+  'views': 93,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.803938'
+}
+{
+  'type': None,
+  'title': 'Nicholas Cage in Adaptation."Charlie asks out the waitress"',
+  'link': './viewtopic.php?f=4&t=31011',
+  'author_topic': 'noteasylover',
+  'replies': 2,
+  'views': 48,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.806117'
+}
+{
+  'type': None,
+  'title': 'Do men still ask women out?',
+  'link': './viewtopic.php?f=4&t=30896',
+  'author_topic': 'Lyle',
+  'replies': 87,
+  'views': 824,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.808570'
+}
+{
+  'type': None,
+  'title': '"by 17, you can tell if you\'re a guy who gets laid (...)"',
+  'link': './viewtopic.php?f=4&t=30647',
+  'author_topic': 'Fistandantilus',
+  'replies': 21,
+  'views': 289,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.811012'
+}
+{
+  'type': None,
+  'title': 'HI INCELS!!',
+  'link': './viewtopic.php?f=4&t=30978',
+  'author_topic': 'Coconut',
+  'replies': 26,
+  'views': 337,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.813370'
+}
+{
+  'type': None,
+  'title': "I need Articles how to get girlfriend in your 30's",
+  'link': './viewtopic.php?f=4&t=30753',
+  'author_topic': 'SuperJeff',
+  'replies': 31,
+  'views': 281,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.815871'
+}
+{
+  'type': None,
+  'title': 'Some have suggested Government Sponsored Girlfriends ...',
+  'link': './viewtopic.php?f=4&t=30847',
+  'author_topic': 'SuperJeff',
+  'replies': 55,
+  'views': 458,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.818349'
+}
+{
+  'type': None,
+  'title': "SuperJeff's prostitution thread",
+  'link': './viewtopic.php?f=4&t=29456',
+  'author_topic': 'SuperJeff',
+  'replies': 84,
+  'views': 760,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.821063'
+}
+{
+  'type': None,
+  'title': 'Are "Normal" people ever Incel or become Incel ?',
+  'link': './viewtopic.php?f=4&t=30881',
+  'author_topic': 'SuperJeff',
+  'replies': 29,
+  'views': 355,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.823389'
+}
+{
+  'type': None,
+  'title': "So it's been a while...what's going on here?",
+  'link': './viewtopic.php?f=4&t=31009',
+  'author_topic': 'Reanimated',
+  'replies': 3,
+  'views': 52,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.825637'
+}
+{
+  'type': None,
+  'title': 'Does anyone buy this?',
+  'link': './viewtopic.php?f=4&t=31005',
+  'author_topic': 'alone99',
+  'replies': 10,
+  'views': 166,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.827790'
+}
+{
+  'type': None,
+  'title': 'New show on bbc3 showing&glorifyin older women datin younger',
+  'link': './viewtopic.php?f=4&t=31001',
+  'author_topic': 'IceCat7',
+  'replies': 16,
+  'views': 197,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.830256'
+}
+{
+  'type': None,
+  'title': "Y'all done the Snapchat gender filter yet?",
+  'link': './viewtopic.php?f=4&t=30990',
+  'author_topic': 'Edge',
+  'replies': 17,
+  'views': 212,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.832646'
+}
+{
+  'type': None,
+  'title': 'Another article regarding Incels',
+  'link': './viewtopic.php?f=4&t=30998',
+  'author_topic': 'TheLoneWolf',
+  'replies': 36,
+  'views': 369,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.835144'
+}
+{
+  'type': None,
+  'title': "New incel movie, 'A young man with high potential'.",
+  'link': './viewtopic.php?f=4&t=31003',
+  'author_topic': 'silvereagle',
+  'replies': 7,
+  'views': 126,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.837289'
+}
+{
+  'type': None,
+  'title': 'Sometimes I feel like a Freak of Nature',
+  'link': './viewtopic.php?f=4&t=30182',
+  'author_topic': 'SuperJeff',
+  'replies': 58,
+  'views': 577,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.839715'
+}
+{
+  'type': None,
+  'title': "I'm new. Don't really know what im doing wrong.",
+  'link': './viewtopic.php?f=4&t=31006',
+  'author_topic': 'daddysargon',
+  'replies': 4,
+  'views': 74,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.841904'
+}
+{
+  'type': None,
+  'title': 'Anyone here find the other incel sites repulsive?',
+  'link': './viewtopic.php?f=4&t=30996',
+  'author_topic': 'noble_eagle',
+  'replies': 18,
+  'views': 239,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.844224'
+}
+{
+  'type': None,
+  'title': 'Question for other Men who Lost Virgintiy to Prostitutes',
+  'link': './viewtopic.php?f=4&t=30988',
+  'author_topic': 'SuperJeff',
+  'replies': 7,
+  'views': 113,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.846428'
+}
+{
+  'type': None,
+  'title': 'Cringe from the 21 PUA Con.Sponsored by Alpha pheromone soap',
+  'link': './viewtopic.php?f=4&t=31002',
+  'author_topic': 'noteasylover',
+  'replies': 4,
+  'views': 63,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.848511'
+}
+{
+  'type': None,
+  'title': 'Anyone here have girlfriends in their Dreams/Sleep ?',
+  'link': './viewtopic.php?f=4&t=30480',
+  'author_topic': 'SuperJeff',
+  'replies': 27,
+  'views': 336,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.850798'
+}
+{
+  'type': None,
+  'title': 'California',
+  'link': './viewtopic.php?f=4&t=31000',
+  'author_topic': 'rsihl',
+  'replies': 6,
+  'views': 71,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.853005'
+}
+{
+  'type': None,
+  'title': 'Picture of myself, age 7 in 1987',
+  'link': './viewtopic.php?f=4&t=30238',
+  'author_topic': 'SuperJeff',
+  'replies': 15,
+  'views': 313,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.855310'
+}
+{
+  'type': None,
+  'title': 'I can think about a girl I passed on the street for hours',
+  'link': './viewtopic.php?f=4&t=25331',
+  'author_topic': 'IceCat7',
+  'replies': 33,
+  'views': 550,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.857769'
+}
+{
+  'type': None,
+  'title': 'Are you a high energy or low energy person?',
+  'link': './viewtopic.php?f=4&t=30973',
+  'author_topic': 'ieatboogers',
+  'replies': 33,
+  'views': 311,
+  'subforum': 'Open Forum',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 17:52:39.860141'
+}

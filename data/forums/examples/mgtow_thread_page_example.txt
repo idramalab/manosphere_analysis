@@ -1,0 +1,132 @@
+{
+  'type': [],
+  'title': 'Could there be aliens on the moon',
+  'link': '/forums/topic/could-there-be-aliens-on-the-moon/',
+  'author_topic': 'blade',
+  'replies': 18,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:53.989300'
+}
+{
+  'type': [],
+  'title': 'Is there really any such thing as a female ally?',
+  'link': '/forums/topic/is-there-really-any-such-thing-as-a-female-ally/',
+  'author_topic': 'EG',
+  'replies': 26,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:53.993424'
+}
+{
+  'type': [],
+  'title': 'Post walls only smile at you due to lack of attention',
+  'link': '/forums/topic/post-walls-only-smile-at-you-due-to-lack-of-attention/',
+  'author_topic': 'blade',
+  'replies': 4,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:53.996969'
+}
+{
+  'type': [],
+  'title': 'Angry Thot',
+  'link': '/forums/topic/angry-thot/',
+  'author_topic': 'Twist',
+  'replies': 20,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.000563'
+}
+{
+  'type': [],
+  'title': 'In the news: Cruelty to Animals',
+  'link': '/forums/topic/in-the-news-cruelty-to-animals/',
+  'author_topic': 'Forsaken',
+  'replies': 6,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.006499'
+}
+{
+  'type': [],
+  'title': "You don't know until you try",
+  'link': '/forums/topic/you-dont-know-until-you-try/',
+  'author_topic': 'Russky2',
+  'replies': 13,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.010125'
+}
+{
+  'type': [],
+  'title': '#metoo fallout part 3: men required to repair the damages done by #metoo!',
+  'link': '/forums/topic/metoo-fallout-part-3-men-required-to-repair-the-damages-done-by-metoo/',
+  'author_topic': 'Eric Lauder',
+  'replies': 11,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.013903'
+}
+{
+  'type': [],
+  'title': 'Never feel bad.',
+  'link': '/forums/topic/never-feel-bad/',
+  'author_topic': 'iMickey503',
+  'replies': 5,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.020012'
+}
+{
+  'type': [],
+  'title': 'A Call For A Nation Wide Sex Strike',
+  'link': '/forums/topic/a-call-for-a-nation-wide-sex-strike/',
+  'author_topic': 'ResidentEvil7',
+  'replies': 29,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.026621'
+}
+{
+  'type': [],
+  'title': 'Millennial men living with parents longer, working less…',
+  'link': '/forums/topic/millennial-men-living-with-parents-longer-working-less/',
+  'author_topic': 'Beer',
+  'replies': 31,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.031912'
+}
+{
+  'type': [],
+  'title': 'Why have so many abandoned this site. Km or who ever have some b~~~~ lets lay',
+  'link': '/forums/topic/why-have-so-many-abandoned-this-site-km-or-who-ever-have-some-balls-lets-lay/',
+  'author_topic': 'blade',
+  'replies': 42,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.036204'
+}
+{
+  'type': [],
+  'title': 'The Absurdity Of Life And The Absolute Certainty Of Death',
+  'link': '/forums/topic/the-absurdity-of-life-and-the-absolute-certainty-of-death/',
+  'author_topic': 'Colin Combover in a Coma',
+  'replies': 6,
+  'views': None,
+  'subforum': 'mgtow',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 18:37:54.040448'
+}

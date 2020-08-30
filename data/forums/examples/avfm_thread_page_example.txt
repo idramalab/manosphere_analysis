@@ -1,0 +1,136 @@
+{
+  'type': [
+    'Sticky'
+  ],
+  'title': 'New Site: An Ear for Men is for Men Only',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/16504-new-site-an-ear-for-men-is-for-men-only',
+  'author_topic': 'Paul',
+  'replies': 18,
+  'views': 17357,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.689672'
+}
+{
+  'type': [
+    'Sticky'
+  ],
+  'title': 'AVFM Mission statement',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/7101-avfm-mission-statement',
+  'author_topic': 'Grumpy Old Man',
+  'replies': 14,
+  'views': 16461,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.694408'
+}
+{
+  'type': [],
+  'title': 'Is this the price of refusing to be disposable?',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346657-is-this-the-price-of-refusing-to-be-disposable',
+  'author_topic': 'Manalysis',
+  'replies': 9,
+  'views': 112,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.697623'
+}
+{
+  'type': [],
+  'title': 'Chateau Heartise - Banned by Wordpress',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346623-chateau-heartise-banned-by-wordpress',
+  'author_topic': 'Mifune',
+  'replies': 3,
+  'views': 68,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.700670'
+}
+{
+  'type': [],
+  'title': 'Cassie Jaye returns',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346592-cassie-jaye-returns',
+  'author_topic': 'Kosh67',
+  'replies': 5,
+  'views': 146,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.703848'
+}
+{
+  'type': [],
+  'title': 'This site will never die in my heart',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346641-this-site-will-never-die-in-my-heart',
+  'author_topic': 'dubs',
+  'replies': 1,
+  'views': 23,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.706935'
+}
+{
+  'type': [],
+  'title': 'crp on east west',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346637-crp-on-east-west',
+  'author_topic': 'menrppl2',
+  'replies': 2,
+  'views': 27,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.710105'
+}
+{
+  'type': [],
+  'title': 'Twitter Protects Election Integrity...',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346603-twitter-protects-election-integrity',
+  'author_topic': 'Grumpy Old Man',
+  'replies': 1,
+  'views': 26,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.713197'
+}
+{
+  'type': [],
+  'title': 'Teacher arrested for sleeping with 13 year old student.',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346591-teacher-arrested-for-sleeping-with-13-year-old-student',
+  'author_topic': 'Mifune',
+  'replies': 1,
+  'views': 58,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.716413'
+}
+{
+  'type': [],
+  'title': 'Teen Girls "Fight Back"',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346574-teen-girls-fight-back',
+  'author_topic': 'Mifune',
+  'replies': 7,
+  'views': 159,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.719583'
+}
+{
+  'type': [],
+  'title': 'Christchurch Mosque Massacre',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346569-christchurch-mosque-massacre',
+  'author_topic': 'Angelica',
+  'replies': 3,
+  'views': 87,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.722689'
+}
+{
+  'type': [],
+  'title': 'Man, Woman, Myth',
+  'link': 'https://d2ec906f9aea-003845.vbulletin.net/forum/avfm-central/the-avfm-lounge/346560-man-woman-myth',
+  'author_topic': 'pbisque',
+  'replies': 4,
+  'views': 86,
+  'subforum': 'The AVfM Lounge',
+  'collected': False,
+  'crawled_idx_at': '2019-06-23 19:39:27.725898'
+}

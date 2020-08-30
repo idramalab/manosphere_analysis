@@ -1,0 +1,619 @@
+{
+  'type': [
+    'Global Announcement'
+  ],
+  'title': 'First Date Blueprint (new free 30-page guide)',
+  'link': '/viewtopic.php?f=1&t=185117',
+  'author_topic': 'Chief',
+  'replies': 132,
+  'views': 73386,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.687749'
+}
+{
+  'type': [
+    'Announcement'
+  ],
+  'title': 'HOW TO HANDLE TROLLS: Read before participating in the forum',
+  'link': '/viewtopic.php?f=1&t=126545',
+  'author_topic': 'Chief',
+  'replies': 48,
+  'views': 52475,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.691439'
+}
+{
+  'type': [
+    'Locked'
+  ],
+  'title': 'The Chatroom Rules (updated: MAY 8 2016)',
+  'link': '/viewtopic.php?f=1&t=117054',
+  'author_topic': 'madals',
+  'replies': 0,
+  'views': 19545,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.694394'
+}
+{
+  'type': [
+    'Locked'
+  ],
+  'title': 'Welcome to MPUAForum.com! Read this before posting anything.',
+  'link': '/viewtopic.php?f=1&t=25989',
+  'author_topic': 'Chief',
+  'replies': 0,
+  'views': 56810,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.697385'
+}
+{
+  'type': [
+    'Locked'
+  ],
+  'title': 'The Forum Rules - YOU WILL BE HELD ACCOUNTABLE',
+  'link': '/viewtopic.php?f=1&t=25918',
+  'author_topic': 'Chief',
+  'replies': 0,
+  'views': 41210,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.701258'
+}
+{
+  'type': [
+    'Locked'
+  ],
+  'title': 'We got banned',
+  'link': '/viewtopic.php?f=1&t=94875',
+  'author_topic': 'Arabella',
+  'replies': 5,
+  'views': 30755,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.704886'
+}
+{
+  'type': [
+    'Locked'
+  ],
+  'title': 'Worthwhile Threads',
+  'link': '/viewtopic.php?f=1&t=20776',
+  'author_topic': 'Rye Lee',
+  'replies': 18,
+  'views': 93300,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.708247'
+}
+{
+  'type': [],
+  'title': 'Hi Guys Newbie here',
+  'link': '/viewtopic.php?f=1&t=257020',
+  'author_topic': 'Parkerlex',
+  'replies': 1,
+  'views': 229,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.712222'
+}
+{
+  'type': [],
+  'title': 'Greetings! I just moved to Austin. Looking for Wing-men.',
+  'link': '/viewtopic.php?f=1&t=257110',
+  'author_topic': 'Hey_Bon_Ami',
+  'replies': 1,
+  'views': 96,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.715147'
+}
+{
+  'type': [],
+  'title': 'Just saying hi',
+  'link': '/viewtopic.php?f=1&t=257204',
+  'author_topic': 'TommyShaw',
+  'replies': 1,
+  'views': 34,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.719265'
+}
+{
+  'type': [],
+  'title': "Hey guys what's up",
+  'link': '/viewtopic.php?f=1&t=257216',
+  'author_topic': 'Sawyer_Mcqueen',
+  'replies': 1,
+  'views': 10,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.721776'
+}
+{
+  'type': [],
+  'title': 'Hi everyone new to "the pick up" looking to learn',
+  'link': '/viewtopic.php?f=1&t=257137',
+  'author_topic': 'miester',
+  'replies': 3,
+  'views': 174,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.724175'
+}
+{
+  'type': [],
+  'title': 'J.Darko Traveling Pua',
+  'link': '/viewtopic.php?f=1&t=257126',
+  'author_topic': 'sampilydarko1',
+  'replies': 1,
+  'views': 125,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.726689'
+}
+{
+  'type': [],
+  'title': 'East coast Florida. Good at online&texting game.',
+  'link': '/viewtopic.php?f=1&t=257207',
+  'author_topic': 'tobehonest',
+  'replies': 0,
+  'views': 37,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.729284'
+}
+{
+  'type': [],
+  'title': 'A newbie with a lot of theory but lacking on balls',
+  'link': '/viewtopic.php?f=1&t=257197',
+  'author_topic': 'SpanishLover',
+  'replies': 1,
+  'views': 75,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.731610'
+}
+{
+  'type': [],
+  'title': 'Hello From Scottsdale AZ',
+  'link': '/viewtopic.php?f=1&t=257200',
+  'author_topic': 'aTrueLove',
+  'replies': 0,
+  'views': 46,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.733941'
+}
+{
+  'type': [],
+  'title': 'New to application!',
+  'link': '/viewtopic.php?f=1&t=257159',
+  'author_topic': 'BetancourtRex',
+  'replies': 1,
+  'views': 84,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.736175'
+}
+{
+  'type': [],
+  'title': 'Hello motherfuckers',
+  'link': '/viewtopic.php?f=1&t=257158',
+  'author_topic': '_Blackstar_',
+  'replies': 0,
+  'views': 64,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.738472'
+}
+{
+  'type': [],
+  'title': "Hello I'm a New PUA: Taylor Blackblood",
+  'link': '/viewtopic.php?f=1&t=257085',
+  'author_topic': 'TaylorBlackblood999',
+  'replies': 2,
+  'views': 132,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.740901'
+}
+{
+  'type': [],
+  'title': 'Sup everyone',
+  'link': '/viewtopic.php?f=1&t=257129',
+  'author_topic': 'Deliciadecu',
+  'replies': 0,
+  'views': 79,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.743675'
+}
+{
+  'type': [],
+  'title': 'Nirodha Intro',
+  'link': '/viewtopic.php?f=1&t=257109',
+  'author_topic': 'Nirodha',
+  'replies': 0,
+  'views': 102,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.746034'
+}
+{
+  'type': [],
+  'title': 'Hello',
+  'link': '/viewtopic.php?f=1&t=257108',
+  'author_topic': 'Matei',
+  'replies': 0,
+  'views': 103,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.748262'
+}
+{
+  'type': [],
+  'title': 'Doing the work & need assistance leveing-up',
+  'link': '/viewtopic.php?f=1&t=257107',
+  'author_topic': 'Nirodha',
+  'replies': 0,
+  'views': 104,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.750577'
+}
+{
+  'type': [],
+  'title': 'New to the game traveling Europe.',
+  'link': '/viewtopic.php?f=1&t=257014',
+  'author_topic': 'Chingspartan',
+  'replies': 0,
+  'views': 241,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.752820'
+}
+{
+  'type': [],
+  'title': 'Sort of Newb',
+  'link': '/viewtopic.php?f=1&t=257002',
+  'author_topic': 'Calcutta',
+  'replies': 0,
+  'views': 217,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.755024'
+}
+{
+  'type': [],
+  'title': 'Greetings!',
+  'link': '/viewtopic.php?f=1&t=256978',
+  'author_topic': 'Madison',
+  'replies': 0,
+  'views': 235,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.757339'
+}
+{
+  'type': [],
+  'title': 'Hi from Atlanta',
+  'link': '/viewtopic.php?f=1&t=256976',
+  'author_topic': 'Nirite',
+  'replies': 0,
+  'views': 204,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.759593'
+}
+{
+  'type': [],
+  'title': 'Introduce Yourself',
+  'link': '/viewtopic.php?f=1&t=250022',
+  'author_topic': 'thehay95',
+  'replies': 3,
+  'views': 333,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.761998'
+}
+{
+  'type': [],
+  'title': 'Hello!!! I make consistent infield videos!!',
+  'link': '/viewtopic.php?f=1&t=256957',
+  'author_topic': 'jetli123',
+  'replies': 0,
+  'views': 246,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.764188'
+}
+{
+  'type': [],
+  'title': 'London calling',
+  'link': '/viewtopic.php?f=1&t=256916',
+  'author_topic': 'cassa nova',
+  'replies': 1,
+  'views': 186,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.766347'
+}
+{
+  'type': [],
+  'title': 'New to community introvert',
+  'link': '/viewtopic.php?f=1&t=255902',
+  'author_topic': 'Lateintrovert',
+  'replies': 1,
+  'views': 205,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.768665'
+}
+{
+  'type': [],
+  'title': 'Hi from Croatia !',
+  'link': '/viewtopic.php?f=1&t=252719',
+  'author_topic': 'maestro8',
+  'replies': 1,
+  'views': 226,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.770886'
+}
+{
+  'type': [],
+  'title': 'New From Canada',
+  'link': '/viewtopic.php?f=1&t=255153',
+  'author_topic': 'lingcanada',
+  'replies': 0,
+  'views': 289,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.773245'
+}
+{
+  'type': [],
+  'title': 'New member to this board',
+  'link': '/viewtopic.php?f=1&t=252774',
+  'author_topic': 'jacquelinedownes',
+  'replies': 1,
+  'views': 304,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.775484'
+}
+{
+  'type': [],
+  'title': 'I Am fresh',
+  'link': '/viewtopic.php?f=1&t=254008',
+  'author_topic': 'Ultracamp',
+  'replies': 0,
+  'views': 243,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.777690'
+}
+{
+  'type': [],
+  'title': 'Any help plz?',
+  'link': '/viewtopic.php?f=1&t=253966',
+  'author_topic': 'Agmyst',
+  'replies': 0,
+  'views': 256,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.780053'
+}
+{
+  'type': [],
+  'title': 'Hello!!!',
+  'link': '/viewtopic.php?f=1&t=252726',
+  'author_topic': 'selinacantrell',
+  'replies': 1,
+  'views': 180,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.782300'
+}
+{
+  'type': [],
+  'title': 'Hello everyone',
+  'link': '/viewtopic.php?f=1&t=217128',
+  'author_topic': 'kullboys',
+  'replies': 1,
+  'views': 366,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.784777'
+}
+{
+  'type': [],
+  'title': 'South Florida PUA',
+  'link': '/viewtopic.php?f=1&t=217027',
+  'author_topic': 'EvilPanda',
+  'replies': 3,
+  'views': 384,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.787004'
+}
+{
+  'type': [],
+  'title': 'Where can I find a girl with similar interests?',
+  'link': '/viewtopic.php?f=1&t=217069',
+  'author_topic': 'Finch34',
+  'replies': 3,
+  'views': 363,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.789250'
+}
+{
+  'type': [],
+  'title': 'Hello my name is M. I need help.',
+  'link': '/viewtopic.php?f=1&t=216878',
+  'author_topic': 'eddie1977',
+  'replies': 3,
+  'views': 408,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.791600'
+}
+{
+  'type': [],
+  'title': 'Newbie on the scene',
+  'link': '/viewtopic.php?f=1&t=205883',
+  'author_topic': 'MrBuckman',
+  'replies': 5,
+  'views': 1009,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.793841'
+}
+{
+  'type': [],
+  'title': 'New here',
+  'link': '/viewtopic.php?f=1&t=216979',
+  'author_topic': 'AngelColvin',
+  'replies': 3,
+  'views': 402,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.796181'
+}
+{
+  'type': [],
+  'title': 'New member',
+  'link': '/viewtopic.php?f=1&t=215381',
+  'author_topic': 'TroubleMaker777',
+  'replies': 9,
+  'views': 1126,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.798399'
+}
+{
+  'type': [],
+  'title': 'New argentinian PUA in Copenhagen',
+  'link': '/viewtopic.php?f=1&t=216003',
+  'author_topic': 'Leonardo33',
+  'replies': 4,
+  'views': 629,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.800830'
+}
+{
+  'type': [],
+  'title': 'Hello from Canada',
+  'link': '/viewtopic.php?f=1&t=216803',
+  'author_topic': 'corkshow',
+  'replies': 2,
+  'views': 320,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.803155'
+}
+{
+  'type': [],
+  'title': 'Returning PUA',
+  'link': '/viewtopic.php?f=1&t=216635',
+  'author_topic': 'tekk2021',
+  'replies': 2,
+  'views': 315,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.805403'
+}
+{
+  'type': [],
+  'title': 'Howdy from Canada',
+  'link': '/viewtopic.php?f=1&t=216619',
+  'author_topic': 'Agent_Orange',
+  'replies': 1,
+  'views': 314,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.807730'
+}
+{
+  'type': [],
+  'title': 'Hello from London',
+  'link': '/viewtopic.php?f=1&t=216405',
+  'author_topic': 'Principiante',
+  'replies': 2,
+  'views': 385,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.809955'
+}
+{
+  'type': [],
+  'title': 'Introduction/ Post #1:',
+  'link': '/viewtopic.php?f=1&t=219703',
+  'author_topic': 'Lord Byron',
+  'replies': 1,
+  'views': 382,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.812169'
+}
+{
+  'type': [],
+  'title': 'Hey! Orlando/UCF area',
+  'link': '/viewtopic.php?f=1&t=219651',
+  'author_topic': 'Siege_22',
+  'replies': 1,
+  'views': 374,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.814485'
+}
+{
+  'type': [],
+  'title': 'New here out of 10yr relationship',
+  'link': '/viewtopic.php?f=1&t=219625',
+  'author_topic': '2shyguy86',
+  'replies': 2,
+  'views': 421,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.816705'
+}
+{
+  'type': [],
+  'title': 'Pua in Viet Nam',
+  'link': '/viewtopic.php?f=1&t=217178',
+  'author_topic': 'nghesitangai',
+  'replies': 1,
+  'views': 394,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.819045'
+}
+{
+  'type': [],
+  'title': 'Hi from Bangalore India',
+  'link': '/viewtopic.php?f=1&t=215855',
+  'author_topic': 'manishk012',
+  'replies': 2,
+  'views': 487,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.821261'
+}
+{
+  'type': [],
+  'title': 'Expert Seducer in USA South and USA West here to share wisdo',
+  'link': '/viewtopic.php?f=1&t=217159',
+  'author_topic': 'RonnieSpiewak',
+  'replies': 1,
+  'views': 354,
+  'subforum': 'Introduce Yourself',
+  'collected': False,
+  'crawled_idx_at': '2019-06-26 17:13:44.823496'
+}

@@ -1,0 +1,1326 @@
+{
+  'type': [
+    '[Blackpill]',
+    'Sticky'
+  ],
+  'title': '[VIDEO] Personality theory debunked. Looks ARE everything. Incel with facial deformity joins specialised dating agency',
+  'link': '/threads/video-personality-theory-debunked-looks-are-everything-incel-with-facial-deformity-joins-specialised-dating-agency.126018/',
+  'author_topic': 'outherebrothers',
+  'replies': 98,
+  'views': 3000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.365000'
+}
+{
+  'type': [
+    '[LifeFuel]',
+    'Sticky'
+  ],
+  'title': 'Academics Defending Incels - Compilation',
+  'link': '/threads/academics-defending-incels-compilation.121700/',
+  'author_topic': 'ThisLifeKillsMe',
+  'replies': 71,
+  'views': 7000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.370349'
+}
+{
+  'type': [
+    '[News]',
+    'Sticky'
+  ],
+  'title': 'Survey Results for May 2019',
+  'link': '/threads/survey-results-for-may-2019.123987/',
+  'author_topic': 'SergeantIncel',
+  'replies': 91,
+  'views': 4000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.375889'
+}
+{
+  'type': [
+    'Sticky',
+    'Locked'
+  ],
+  'title': 'Information and Resources',
+  'link': '/threads/information-and-resources.78871/',
+  'author_topic': 'Incels',
+  'replies': 0,
+  'views': 15000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.380896'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Coping 32 y/o virgin thinks his inexperience will attract women on reddit',
+  'link': '/threads/coping-32-y-o-virgin-thinks-his-inexperience-will-attract-women-on-reddit.126583/',
+  'author_topic': 'NoMoreSlaving',
+  'replies': 47,
+  'views': 862,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.385827'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'what came of your childhood friends?',
+  'link': '/threads/what-came-of-your-childhood-friends.126105/',
+  'author_topic': 'jet112',
+  'replies': 44,
+  'views': 425,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.390676'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'Manlets are volcels.',
+  'link': '/threads/manlets-are-volcels.126000/',
+  'author_topic': 'Firefly',
+  'replies': 16,
+  'views': 342,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.395586'
+}
+{
+  'type': [
+    "[It's Over]"
+  ],
+  'title': 'sister friends told her im staring at them too much.',
+  'link': '/threads/sister-friends-told-her-im-staring-at-them-too-much.126676/',
+  'author_topic': 'nxdismycope',
+  'replies': 21,
+  'views': 60,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.400853'
+}
+{
+  'type': [],
+  'title': 'Most potential incels turn prison gay',
+  'link': '/threads/most-potential-incels-turn-prison-gay.126664/',
+  'author_topic': 'Xumi',
+  'replies': 16,
+  'views': 133,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.405220'
+}
+{
+  'type': [
+    '[Based]'
+  ],
+  'title': 'Transit agency rejects feminist ads for women-only office space',
+  'link': '/threads/transit-agency-rejects-feminist-ads-for-women-only-office-space.126666/',
+  'author_topic': 'soulartemis',
+  'replies': 3,
+  'views': 42,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.410142'
+}
+{
+  'type': [
+    '[RageFuel]'
+  ],
+  'title': 'Jewess gets pussy pass for running over homeless man in Toronto, sub8 males have NO RIGHTS!',
+  'link': '/threads/jewess-gets-pussy-pass-for-running-over-homeless-man-in-toronto-sub8-males-have-no-rights.126034/',
+  'author_topic': 'Weston404',
+  'replies': 42,
+  'views': 815,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.415017'
+}
+{
+  'type': [
+    '[Story]'
+  ],
+  'title': 'I have become Natural Selection: Decider of Destinies, Chooser of Fates (Flowerpills #1)',
+  'link': '/threads/i-have-become-natural-selection-decider-of-destinies-chooser-of-fates-flowerpills-1.126679/',
+  'author_topic': 'PoodankMcGee',
+  'replies': 1,
+  'views': 2,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.419751'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'Youngcels are still bluepilled',
+  'link': '/threads/youngcels-are-still-bluepilled.126643/',
+  'author_topic': 'Xumi',
+  'replies': 24,
+  'views': 264,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.424634'
+}
+{
+  'type': [
+    '[SuicideFuel]'
+  ],
+  'title': 'I’m smart and interesting and nobody fucking ever replies to me or wants to talk to me',
+  'link': '/threads/im-smart-and-interesting-and-nobody-fucking-ever-replies-to-me-or-wants-to-talk-to-me.126678/',
+  'author_topic': 'black_depresso',
+  'replies': 8,
+  'views': 9,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.429477'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'Ethnics in the West...',
+  'link': '/threads/ethnics-in-the-west.126579/',
+  'author_topic': 'ColdLightOfDay',
+  'replies': 30,
+  'views': 438,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.434508'
+}
+{
+  'type': [
+    '[NSFW]'
+  ],
+  'title': 'Just lol at Englishcels',
+  'link': '/threads/just-lol-at-englishcels.126380/',
+  'author_topic': 'incel-american',
+  'replies': 63,
+  'views': 1000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.439456'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'CHANGE CAN NEVER BE INITIATED THROUGH PEACE.',
+  'link': '/threads/change-can-never-be-initiated-through-peace.126652/',
+  'author_topic': 'IncelKing',
+  'replies': 19,
+  'views': 184,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.444534'
+}
+{
+  'type': [
+    '[TeeHee]'
+  ],
+  'title': 'BrazilianSigma\'s foid doppelgänger, a lesbian "Muslim"',
+  'link': '/threads/braziliansigmas-foid-doppelgaenger-a-lesbian-muslim.126669/',
+  'author_topic': 'Sadness',
+  'replies': 7,
+  'views': 73,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.449755'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'Why do manlets/others blame just women for chosing a 6ft+ male?',
+  'link': '/threads/why-do-manlets-others-blame-just-women-for-chosing-a-6ft-male.126659/',
+  'author_topic': 'blockhead24',
+  'replies': 24,
+  'views': 197,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.454736'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'They are going after our copes',
+  'link': '/threads/they-are-going-after-our-copes.126675/',
+  'author_topic': 'Yamete',
+  'replies': 4,
+  'views': 35,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.459802'
+}
+{
+  'type': [
+    '[Based]'
+  ],
+  'title': 'How to deal with short cunts who reject short men and date only tallfags',
+  'link': '/threads/how-to-deal-with-short-cunts-who-reject-short-men-and-date-only-tallfags.126670/',
+  'author_topic': 'Napoleon de Geso',
+  'replies': 3,
+  'views': 47,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.464736'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'islam is the only solution at this point',
+  'link': '/threads/islam-is-the-only-solution-at-this-point.126487/',
+  'author_topic': 'refmd',
+  'replies': 35,
+  'views': 632,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.469529'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'True love died with the rise of technology.',
+  'link': '/threads/true-love-died-with-the-rise-of-technology.126612/',
+  'author_topic': 'ordinaryotaku',
+  'replies': 19,
+  'views': 313,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.474560'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'if it wasnt for my mom id be dead or serving a life sentence',
+  'link': '/threads/if-it-wasnt-for-my-mom-id-be-dead-or-serving-a-life-sentence.126586/',
+  'author_topic': 'truefaithneworder',
+  'replies': 15,
+  'views': 308,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.479576'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'When a faggot says "be grateful for what you have" what\'s a good comeback?',
+  'link': '/threads/when-a-faggot-says-be-grateful-for-what-you-have-whats-a-good-comeback.126415/',
+  'author_topic': 'Akkadian',
+  'replies': 43,
+  'views': 712,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.484526'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': "I've noticed that many white guys have been dating women of other races lately.",
+  'link': '/threads/ive-noticed-that-many-white-guys-have-been-dating-women-of-other-races-lately.126424/',
+  'author_topic': 'wizardcel',
+  'replies': 22,
+  'views': 531,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.489922'
+}
+{
+  'type': [],
+  'title': "I can't stand university anymore",
+  'link': '/threads/i-cant-stand-university-anymore.126671/',
+  'author_topic': 'wizardcel',
+  'replies': 10,
+  'views': 74,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.494524'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'What happens when a 3.5/10 white low tier normie changes location from Europe to Asia',
+  'link': '/threads/what-happens-when-a-3-5-10-white-low-tier-normie-changes-location-from-europe-to-asia.126494/',
+  'author_topic': 'NoMoreSlaving',
+  'replies': 23,
+  'views': 485,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.499578'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'Alright boyos, the time has come. Should I ask out an ugly foid at work?',
+  'link': '/threads/alright-boyos-the-time-has-come-should-i-ask-out-an-ugly-foid-at-work.126602/',
+  'author_topic': 'incel-american',
+  'replies': 30,
+  'views': 492,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.504353'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'I hope western society will get destroyed amd built new again!!!',
+  'link': '/threads/i-hope-western-society-will-get-destroyed-amd-built-new-again.126624/',
+  'author_topic': 'HighTGymcel',
+  'replies': 23,
+  'views': 207,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.509345'
+}
+{
+  'type': [
+    '[RageFuel]'
+  ],
+  'title': 'and.... nasa has began the festival of choosing the first foid to walk on moon',
+  'link': '/threads/and-nasa-has-began-the-festival-of-choosing-the-first-foid-to-walk-on-moon.126634/',
+  'author_topic': 'nxdismycope',
+  'replies': 22,
+  'views': 224,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.514472'
+}
+{
+  'type': [
+    '[LDAR]'
+  ],
+  'title': 'How do older guys with small social circles get so much sex?',
+  'link': '/threads/how-do-older-guys-with-small-social-circles-get-so-much-sex.126615/',
+  'author_topic': 'Rotting since 09',
+  'replies': 35,
+  'views': 544,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.519451'
+}
+{
+  'type': [
+    "[It's Over]"
+  ],
+  'title': 'How can you even get a gf after high-school/University?',
+  'link': '/threads/how-can-you-even-get-a-gf-after-high-school-university.126587/',
+  'author_topic': 'Akkadian',
+  'replies': 29,
+  'views': 544,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.524362'
+}
+{
+  'type': [
+    '[Venting]'
+  ],
+  'title': 'There is no place for me in the world',
+  'link': '/threads/there-is-no-place-for-me-in-the-world.126642/',
+  'author_topic': 'tehgymcel420',
+  'replies': 7,
+  'views': 133,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.529336'
+}
+{
+  'type': [
+    '[LifeFuel]'
+  ],
+  'title': 'Open your tanks boyos, got a little life fuel for you.',
+  'link': '/threads/open-your-tanks-boyos-got-a-little-life-fuel-for-you.126509/',
+  'author_topic': 'Hikikomori',
+  'replies': 50,
+  'views': 784,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.534208'
+}
+{
+  'type': [],
+  'title': "A big problem in my life is that I don't want anything badly enough to try",
+  'link': '/threads/a-big-problem-in-my-life-is-that-i-dont-want-anything-badly-enough-to-try.126657/',
+  'author_topic': 'anon1822',
+  'replies': 7,
+  'views': 112,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.539129'
+}
+{
+  'type': [],
+  'title': "By meeting your wife/girlfriend when you're younger, you create a bond that can't be replicated if you met when you're already older",
+  'link': '/threads/by-meeting-your-wife-girlfriend-when-youre-younger-you-create-a-bond-that-cant-be-replicated-if-you-met-when-youre-already-older.126625/',
+  'author_topic': 'anon1822',
+  'replies': 13,
+  'views': 247,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.543874'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'Where do you see yourself in 10 years?',
+  'link': '/threads/where-do-you-see-yourself-in-10-years.126581/',
+  'author_topic': 'LDARBuddah',
+  'replies': 51,
+  'views': 471,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.549071'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': "I don't understand how some cucks can be friends with foids.",
+  'link': '/threads/i-dont-understand-how-some-cucks-can-be-friends-with-foids.126661/',
+  'author_topic': 'wizardcel',
+  'replies': 21,
+  'views': 172,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.554047'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'reddit promoting violence against us (like usual)',
+  'link': '/threads/reddit-promoting-violence-against-us-like-usual.126617/',
+  'author_topic': 'refmd',
+  'replies': 41,
+  'views': 560,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.559184'
+}
+{
+  'type': [
+    '[Based]'
+  ],
+  'title': 'South-Africancels taking action',
+  'link': '/threads/south-africancels-taking-action.126457/',
+  'author_topic': 'incel-american',
+  'replies': 5,
+  'views': 236,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.564162'
+}
+{
+  'type': [
+    '[Story]'
+  ],
+  'title': 'A foid treated me like a shit',
+  'link': '/threads/a-foid-treated-me-like-a-shit.126516/',
+  'author_topic': 'sudoer',
+  'replies': 20,
+  'views': 547,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.569119'
+}
+{
+  'type': [
+    '[SuicideFuel]'
+  ],
+  'title': 'how do i deal with the urge to rope.',
+  'link': '/threads/how-do-i-deal-with-the-urge-to-rope.123130/',
+  'author_topic': 'ElliotRodgerGod',
+  'replies': 26,
+  'views': 274,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.574369'
+}
+{
+  'type': [
+    '[LifeFuel]'
+  ],
+  'title': 'Chincel (guy without lower third) tries tinder in Thailand.',
+  'link': '/threads/chincel-guy-without-lower-third-tries-tinder-in-thailand.126340/',
+  'author_topic': 'NeetSupremacist',
+  'replies': 15,
+  'views': 400,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.598898'
+}
+{
+  'type': [],
+  'title': 'What will become of us?',
+  'link': '/threads/what-will-become-of-us.126490/',
+  'author_topic': 'weirdguy22',
+  'replies': 31,
+  'views': 432,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.603182'
+}
+{
+  'type': [
+    '[Based]'
+  ],
+  'title': 'Based Japcels at it AGAIN',
+  'link': '/threads/based-japcels-at-it-again.125091/',
+  'author_topic': 'Ethnic Natsoc',
+  'replies': 92,
+  'views': 3000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.608122'
+}
+{
+  'type': [],
+  'title': "I've never approached a woman",
+  'link': '/threads/ive-never-approached-a-woman.126571/',
+  'author_topic': 'janoycresva',
+  'replies': 37,
+  'views': 599,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.612543'
+}
+{
+  'type': [],
+  'title': 'Foid says N word a zillion times, WKs in comments defend her',
+  'link': '/threads/foid-says-n-word-a-zillion-times-wks-in-comments-defend-her.126656/',
+  'author_topic': 'Reinhardt',
+  'replies': 28,
+  'views': 272,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.617178'
+}
+{
+  'type': [
+    '[Venting]'
+  ],
+  'title': 'My parents raided my room and lost my last cope',
+  'link': '/threads/my-parents-raided-my-room-and-lost-my-last-cope.126635/',
+  'author_topic': 'Xumi',
+  'replies': 36,
+  'views': 610,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.623369'
+}
+{
+  'type': [],
+  'title': 'Love Island update 2',
+  'link': '/threads/love-island-update-2.126437/',
+  'author_topic': 'VincentVanCope',
+  'replies': 31,
+  'views': 558,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.627930'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'New tinder experiment with a white guy in SEA.',
+  'link': '/threads/new-tinder-experiment-with-a-white-guy-in-sea.121551/',
+  'author_topic': 'NeetSupremacist',
+  'replies': 29,
+  'views': 1000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.633078'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'Life is pointless suffering (animals)',
+  'link': '/threads/life-is-pointless-suffering-animals.126434/',
+  'author_topic': 'AsiaCel',
+  'replies': 27,
+  'views': 546,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.638097'
+}
+{
+  'type': [
+    '[SuicideFuel]'
+  ],
+  'title': 'Every single "success" or "pulled myself up by the bootstraps" story is a guy who is 6\'2"+',
+  'link': '/threads/every-single-success-or-pulled-myself-up-by-the-bootstraps-story-is-a-guy-who-is-62.126593/',
+  'author_topic': 'bill00',
+  'replies': 26,
+  'views': 521,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.643154'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Good image inside lmao',
+  'link': '/threads/good-image-inside-lmao.126649/',
+  'author_topic': 'VirginAutistManlet',
+  'replies': 6,
+  'views': 118,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.648262'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': "If you've reached 20 and achieved nothing, don't expect it to change",
+  'link': '/threads/if-youve-reached-20-and-achieved-nothing-dont-expect-it-to-change.126432/',
+  'author_topic': 'Akkadian',
+  'replies': 59,
+  'views': 947,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.653241'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': '"You\'re not entitled to your personal shitty emotions Inkel"... "Just emotionsuppress Bro"...',
+  'link': '/threads/youre-not-entitled-to-your-personal-shitty-emotions-inkel-just-emotionsuppress-bro.124958/',
+  'author_topic': 'LittleBoy',
+  'replies': 6,
+  'views': 321,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.658311'
+}
+{
+  'type': [
+    "[It's Over]"
+  ],
+  'title': 'Childhood and Teenage Years is Living Adulthood is Existing',
+  'link': '/threads/childhood-and-teenage-years-is-living-adulthood-is-existing.126654/',
+  'author_topic': 'TheGoodGuy',
+  'replies': 18,
+  'views': 193,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.663337'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'in how much conspiracies do you believe?',
+  'link': '/threads/in-how-much-conspiracies-do-you-believe.126650/',
+  'author_topic': 'nxdismycope',
+  'replies': 26,
+  'views': 184,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.668536'
+}
+{
+  'type': [
+    '[LDAR]'
+  ],
+  'title': "I'm not eating hardly at all anymore.",
+  'link': '/threads/im-not-eating-hardly-at-all-anymore.126279/',
+  'author_topic': 'Looksmaxxcel',
+  'replies': 34,
+  'views': 576,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.673588'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Loneliness Awareness Week for normalfags on Twitter',
+  'link': '/threads/loneliness-awareness-week-for-normalfags-on-twitter.126632/',
+  'author_topic': 'Rotting since 09',
+  'replies': 23,
+  'views': 247,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.678619'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'An Increasing Majority Of Incels On This Site Are Mentalcels (Self Fullfilling Prophecy)',
+  'link': '/threads/an-increasing-majority-of-incels-on-this-site-are-mentalcels-self-fullfilling-prophecy.126537/',
+  'author_topic': 'BlkPillPres',
+  'replies': 126,
+  'views': 2000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.684520'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'do you find tall foids intimidating?',
+  'link': '/threads/do-you-find-tall-foids-intimidating.126628/',
+  'author_topic': 'black_depresso',
+  'replies': 38,
+  'views': 331,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.689811'
+}
+{
+  'type': [],
+  'title': 'Incels oribting foid game developer at e3',
+  'link': '/threads/incels-oribting-foid-game-developer-at-e3.126493/',
+  'author_topic': 'Reinhardt',
+  'replies': 36,
+  'views': 900,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.694637'
+}
+{
+  'type': [],
+  'title': 'Imagine being with a woman that wants to go out at every possible opportunity',
+  'link': '/threads/imagine-being-with-a-woman-that-wants-to-go-out-at-every-possible-opportunity.126641/',
+  'author_topic': 'anon1822',
+  'replies': 16,
+  'views': 238,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.700011'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'How to spot a fakecel',
+  'link': '/threads/how-to-spot-a-fakecel.126588/',
+  'author_topic': 'Pigman',
+  'replies': 65,
+  'views': 806,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.705048'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'Is it volcel to reject ugly manly females, or is it gay to date them?',
+  'link': '/threads/is-it-volcel-to-reject-ugly-manly-females-or-is-it-gay-to-date-them.126510/',
+  'author_topic': 'Napoleon de Geso',
+  'replies': 80,
+  'views': 934,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.710267'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'Dating coach hypothesizes that Toronto men are shy, instead of the reality of feminism',
+  'link': '/threads/dating-coach-hypothesizes-that-toronto-men-are-shy-instead-of-the-reality-of-feminism.126598/',
+  'author_topic': 'Weston404',
+  'replies': 10,
+  'views': 194,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.716446'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': '"You\'re not going to get laid if you call yourself an incel"',
+  'link': '/threads/youre-not-going-to-get-laid-if-you-call-yourself-an-incel.126413/',
+  'author_topic': 'mental_out',
+  'replies': 33,
+  'views': 571,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.721422'
+}
+{
+  'type': [],
+  'title': 'As a greater % of men become incels, will there be better copes in the future?',
+  'link': '/threads/as-a-greater-of-men-become-incels-will-there-be-better-copes-in-the-future.126467/',
+  'author_topic': 'mylifeistrash',
+  'replies': 20,
+  'views': 317,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.726065'
+}
+{
+  'type': [
+    '[SuicideFuel]'
+  ],
+  'title': 'wall street rules, #metoo era: no dinner with foids colleagues, cant sit next to them on flight, book hotel rooms in differnent floors, no 1-1 meeting',
+  'link': '/threads/wall-street-rules-metoo-era-no-dinner-with-foids-colleagues-cant-sit-next-to-them-on-flight-book-hotel-rooms-in-differnent-floors-no-1-1-meeting.126473/',
+  'author_topic': 'nxdismycope',
+  'replies': 14,
+  'views': 398,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.731372'
+}
+{
+  'type': [
+    '[LifeFuel]'
+  ],
+  'title': 'I had a girl tell me I was pretty one time',
+  'link': '/threads/i-had-a-girl-tell-me-i-was-pretty-one-time.126651/',
+  'author_topic': 'black_depresso',
+  'replies': 14,
+  'views': 166,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.736542'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'Beware of infiltration by leftists and foids',
+  'link': '/threads/beware-of-infiltration-by-leftists-and-foids.126568/',
+  'author_topic': 'Otaku',
+  'replies': 30,
+  'views': 458,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.741522'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'would you kill your family to look like young leonardo dicaprio?',
+  'link': '/threads/would-you-kill-your-family-to-look-like-young-leonardo-dicaprio.126631/',
+  'author_topic': 'torujo',
+  'replies': 29,
+  'views': 270,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.746520'
+}
+{
+  'type': [
+    '[LifeFuel]'
+  ],
+  'title': 'Incel in the netherlands, Chad in Thailand!',
+  'link': '/threads/incel-in-the-netherlands-chad-in-thailand.126621/',
+  'author_topic': 'NeetSupremacist',
+  'replies': 25,
+  'views': 471,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.751796'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': "Let's stop hating women for one moment, guys! Who else is enjoying the Women's World Cup?",
+  'link': '/threads/lets-stop-hating-women-for-one-moment-guys-who-else-is-enjoying-the-womens-world-cup.126637/',
+  'author_topic': 'FACEandLMS',
+  'replies': 14,
+  'views': 264,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.756871'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'I hate fruits with seeds!!!',
+  'link': '/threads/i-hate-fruits-with-seeds.126630/',
+  'author_topic': 'HighTGymcel',
+  'replies': 23,
+  'views': 172,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.761981'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'low inhib after you know its over after blackpils',
+  'link': '/threads/low-inhib-after-you-know-its-over-after-blackpils.126647/',
+  'author_topic': 'alone',
+  'replies': 2,
+  'views': 58,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.767079'
+}
+{
+  'type': [],
+  'title': 'Southcel & Eastcel Asiancels',
+  'link': '/threads/southcel-eastcel-asiancels.126644/',
+  'author_topic': 'VirginAutistManlet',
+  'replies': 1,
+  'views': 36,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.771615'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'Take the Houellebecq-pill',
+  'link': '/threads/take-the-houellebecq-pill.126638/',
+  'author_topic': 'Schizoidcel',
+  'replies': 3,
+  'views': 125,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.777068'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Is there like a tinder for ugly people of the bottom 80% of men?',
+  'link': '/threads/is-there-like-a-tinder-for-ugly-people-of-the-bottom-80-of-men.126417/',
+  'author_topic': 'KingOfRome',
+  'replies': 37,
+  'views': 699,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.782213'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': '“Ascending” is a pedestaling cuckold term',
+  'link': '/threads/ascending-is-a-pedestaling-cuckold-term.126596/',
+  'author_topic': 'NotQuiteChadLite',
+  'replies': 19,
+  'views': 258,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.787802'
+}
+{
+  'type': [
+    '[Venting]'
+  ],
+  'title': 'Does anybody else has normalfags talking to him in "ironic" way?',
+  'link': '/threads/does-anybody-else-has-normalfags-talking-to-him-in-ironic-way.126611/',
+  'author_topic': 'Xumi',
+  'replies': 5,
+  'views': 183,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.793346'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Your average American woman on an international dating website',
+  'link': '/threads/your-average-american-woman-on-an-international-dating-website.126528/',
+  'author_topic': 'Ethnic Natsoc',
+  'replies': 28,
+  'views': 805,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.799003'
+}
+{
+  'type': [
+    '[Experiment]'
+  ],
+  'title': 'Inceltears Claims that all incels must come from "conservative homes"',
+  'link': '/threads/inceltears-claims-that-all-incels-must-come-from-conservative-homes.126274/',
+  'author_topic': 'VirginAutistManlet',
+  'replies': 44,
+  'views': 741,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.804552'
+}
+{
+  'type': [
+    '[Story]'
+  ],
+  'title': 'So I went to the gym yesterday and hit it hard. I also molested some people and a female',
+  'link': '/threads/so-i-went-to-the-gym-yesterday-and-hit-it-hard-i-also-molested-some-people-and-a-female.126482/',
+  'author_topic': 'LastGerman',
+  'replies': 33,
+  'views': 920,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.809146'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'I asked a girl out today HEHE',
+  'link': '/threads/i-asked-a-girl-out-today-hehe.126626/',
+  'author_topic': 'black_depresso',
+  'replies': 5,
+  'views': 169,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.814021'
+}
+{
+  'type': [
+    '[RageFuel]'
+  ],
+  'title': '"Why don\'t you just ask an ugly/fat girl out? They\'re lonely too, you know. Lower your standards!"',
+  'link': '/threads/why-dont-you-just-ask-an-ugly-fat-girl-out-theyre-lonely-too-you-know-lower-your-standards.26718/',
+  'author_topic': 'ASS_F',
+  'replies': 23,
+  'views': 950,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.818645'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'There is actually no ascending.',
+  'link': '/threads/there-is-actually-no-ascending.126572/',
+  'author_topic': 'Eskimocel',
+  'replies': 28,
+  'views': 405,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.823090'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Saw a soyboy betabucks today with "his" girl.',
+  'link': '/threads/saw-a-soyboy-betabucks-today-with-his-girl.126629/',
+  'author_topic': 'blockhead24',
+  'replies': 2,
+  'views': 135,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.827952'
+}
+{
+  'type': [
+    '[LDAR]'
+  ],
+  'title': 'My longest cope means nothing anymore.',
+  'link': '/threads/my-longest-cope-means-nothing-anymore.126412/',
+  'author_topic': 'GreaseCel',
+  'replies': 6,
+  'views': 281,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.832798'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'There are a lot of coping pills I see here.',
+  'link': '/threads/there-are-a-lot-of-coping-pills-i-see-here.126600/',
+  'author_topic': 'GreaseCel',
+  'replies': 10,
+  'views': 166,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.837330'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'Ascending is now based on what you FEEL personally and it has lost its general meaning.',
+  'link': '/threads/ascending-is-now-based-on-what-you-feel-personally-and-it-has-lost-its-general-meaning.126554/',
+  'author_topic': 'Eskimocel',
+  'replies': 36,
+  'views': 356,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.842144'
+}
+{
+  'type': [
+    '[RageFuel]'
+  ],
+  'title': 'Getting angry when seeing families at the supermarket',
+  'link': '/threads/getting-angry-when-seeing-families-at-the-supermarket.126618/',
+  'author_topic': 'RopeShow',
+  'replies': 5,
+  'views': 200,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.847292'
+}
+{
+  'type': [
+    '[SuicideFuel]'
+  ],
+  'title': "While I'm still thinking about that hug from 9 years ago...",
+  'link': '/threads/while-im-still-thinking-about-that-hug-from-9-years-ago.126613/',
+  'author_topic': 'Angry_runt',
+  'replies': 16,
+  'views': 343,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.852103'
+}
+{
+  'type': [],
+  'title': 'Left this nice tip for my waitress',
+  'link': '/threads/left-this-nice-tip-for-my-waitress.126501/',
+  'author_topic': 'GetFragged',
+  'replies': 53,
+  'views': 919,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.856348'
+}
+{
+  'type': [
+    '[SuicideFuel]'
+  ],
+  'title': 'Quora gives me suifuel',
+  'link': '/threads/quora-gives-me-suifuel.126619/',
+  'author_topic': 'FinnCel',
+  'replies': 2,
+  'views': 171,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.861405'
+}
+{
+  'type': [
+    '[RageFuel]'
+  ],
+  'title': '2 lesbian foids tore off their kid dick and beheaded him',
+  'link': '/threads/2-lesbian-foids-tore-off-their-kid-dick-and-beheaded-him.126476/',
+  'author_topic': 'nxdismycope',
+  'replies': 13,
+  'views': 434,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.867192'
+}
+{
+  'type': [
+    '[Serious]'
+  ],
+  'title': 'Do you think women are afraid of average/ ugly men who are young/ their age when they walk by them?',
+  'link': '/threads/do-you-think-women-are-afraid-of-average-ugly-men-who-are-young-their-age-when-they-walk-by-them.125632/',
+  'author_topic': 'Eugenicist',
+  'replies': 33,
+  'views': 697,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.871985'
+}
+{
+  'type': [],
+  'title': 'Strongest cure to lifelessness',
+  'link': '/threads/strongest-cure-to-lifelessness.126469/',
+  'author_topic': 'black_depresso',
+  'replies': 19,
+  'views': 396,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.876453'
+}
+{
+  'type': [],
+  'title': 'Has plastic surgery ever helped an incel ascend?',
+  'link': '/threads/has-plastic-surgery-ever-helped-an-incel-ascend.126444/',
+  'author_topic': 'The End',
+  'replies': 17,
+  'views': 350,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.881752'
+}
+{
+  'type': [
+    '[Blackpill]'
+  ],
+  'title': 'Do you think a landwhale forum could ever be formed by women, I.E. equivalent of female incels',
+  'link': '/threads/do-you-think-a-landwhale-forum-could-ever-be-formed-by-women-i-e-equivalent-of-female-incels.126603/',
+  'author_topic': 'Eugenicist',
+  'replies': 20,
+  'views': 172,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.887272'
+}
+{
+  'type': [
+    '[RageFuel]'
+  ],
+  'title': 'Chad humiliates Manlet with facial deformity',
+  'link': '/threads/chad-humiliates-manlet-with-facial-deformity.126585/',
+  'author_topic': 'Actually Autistic',
+  'replies': 24,
+  'views': 640,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.892292'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'I’m infertile and my wife is pregnant',
+  'link': '/threads/im-infertile-and-my-wife-is-pregnant.126459/',
+  'author_topic': 'Bjrgaminggod',
+  'replies': 37,
+  'views': 1000,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.897309'
+}
+{
+  'type': [
+    '[JFL]'
+  ],
+  'title': 'Fakeup is redundant concept. Ugly will be ugly',
+  'link': '/threads/fakeup-is-redundant-concept-ugly-will-be-ugly.126507/',
+  'author_topic': 'black_depresso',
+  'replies': 18,
+  'views': 306,
+  'subforum': 'Inceldom Discussion',
+  'collected': False,
+  'crawled_idx_at': '2019-06-17 15:28:03.902064'
+}

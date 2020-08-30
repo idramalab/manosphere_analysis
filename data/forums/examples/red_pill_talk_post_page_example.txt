@@ -1,0 +1,184 @@
+[
+  {
+    'author': 'Rainbow Corpse',
+    'resume_author': 'ENFORCER',
+    'joined_author': '2016-12-24 00:00:00',
+    'messages_author': 276,
+    'text_post': "WHAT DO YOU GET OUT OF RELENTLESSLY TALKING ABOUT HOW GREAT BBC'S ARE ON THE INTERNET I MEAN HONESTLY WHAT DOES IT DO FOR U TAKE A GOOD HARD LOOK IN THE MIRROR MAYBE I ENJOY KICKING THE SHIT OUT OF U SOMETIMES BUT I DON'T SEE WHATS IN IT ON UR END",
+    'number_post': 1,
+    'id_post': 2186330,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:00:31',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340523'
+  },
+  {
+    'author': 'GottThaGod',
+    'resume_author': None,
+    'joined_author': '2016-12-24 00:00:00',
+    'messages_author': 125,
+    'text_post': 'We are not trolls. I am speaking of reality. And yes i sometimes wish the world would be different. But this is REALITY.',
+    'number_post': 2,
+    'id_post': 2186354,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:13:05',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340542'
+  },
+  {
+    'author': 'Adolf Hipster',
+    'resume_author': '',
+    'joined_author': '2016-11-16 00:00:00',
+    'messages_author': 408,
+    'text_post': 'lol at getting triggered by the BBC redpill. You coping whitecel subhuman have fun getting cucked by nigs',
+    'number_post': 3,
+    'id_post': 2186359,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:14:58',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340555'
+  },
+  {
+    'author': 'bbctakeover',
+    'resume_author': None,
+    'joined_author': '2016-11-14 00:00:00',
+    'messages_author': 57,
+    'text_post': 'We are just stating facts. thought this was a redpill site',
+    'number_post': 4,
+    'id_post': 2186361,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:15:53',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340566'
+  },
+  {
+    'author': 'youbangedyourmom',
+    'resume_author': 'terminate is me',
+    'joined_author': '2016-12-25 00:00:00',
+    'messages_author': 99,
+    'text_post': 'LOL at the insecure white boy Legit Theory and crew needing to pretend to be arab or black. His Irish Italian parents had sentence him to death during childhood Your family friends wife and GOD hates Legit Theory the White British Irish Italian Pedo Catholic Cuck',
+    'number_post': 5,
+    'id_post': 2186393,
+    'id_post_interaction': [
+      2186361
+    ],
+    'date_post': '2016-12-30 00:28:01',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340578'
+  },
+  {
+    'author': 'Rainbow Corpse',
+    'resume_author': None,
+    'joined_author': '2016-12-24 00:00:00',
+    'messages_author': 276,
+    'text_post': "LOL AT WEAK TROLLING U CALL ME TRIGGERED JUST CAUSE U SHILL THRASH 24/7 AND SOMEHOW MANAGE TO KEEP THINKING IT'S A WORTHWHILE ENDEAVOR MAYBE U HAVE BEEN TRIGGERED U CUCK CIRCUS EVEN THE BEARDED LADY WONT FUCK U CLOWNS",
+    'number_post': 6,
+    'id_post': 2186404,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:29:58',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340590'
+  },
+  {
+    'author': 'GottThaGod',
+    'resume_author': None,
+    'joined_author': '2016-12-24 00:00:00',
+    'messages_author': 125,
+    'text_post': "BBC's slay - Whites rot BBC's slay - Whites rot BBC's slay - Whites rot",
+    'number_post': 7,
+    'id_post': 2186408,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:30:27',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340599'
+  },
+  {
+    'author': 'Adolf Hipster',
+    'resume_author': None,
+    'joined_author': '2016-11-16 00:00:00',
+    'messages_author': 408,
+    'text_post': 'triggered',
+    'number_post': 8,
+    'id_post': 2186409,
+    'id_post_interaction': [
+      2186404
+    ],
+    'date_post': '2016-12-30 00:30:30',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340611'
+  },
+  {
+    'author': 'youbangedyourmom',
+    'resume_author': None,
+    'joined_author': '2016-12-25 00:00:00',
+    'messages_author': 99,
+    'text_post': 'LOL at the insecure white boy Legit Theory and crew needing to pretend to be arab or black. His Irish Italian parents had sentence him to death during childhood Your family friends wife and GOD hates Legit Theory the White British Irish Italian Pedo Catholic Cuck',
+    'number_post': 9,
+    'id_post': 2186420,
+    'id_post_interaction': [
+      2186354
+    ],
+    'date_post': '2016-12-30 00:32:08',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340623'
+  },
+  {
+    'author': 'Rainbow Corpse',
+    'resume_author': None,
+    'joined_author': '2016-12-24 00:00:00',
+    'messages_author': 276,
+    'text_post': 'THAT ALL U GOT TO SAY',
+    'number_post': 10,
+    'id_post': 2186423,
+    'id_post_interaction': [],
+    'date_post': '2016-12-30 00:32:53',
+    'links': [
+      (
+      'http',
+      'iruntheinternet.com',
+      '/lulzdump/images/gifs/kangaroo-boxing-punches-referee-punch-fighting-13951861289.gif?id='
+      )
+    ],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340634'
+  },
+  {
+    'author': 'youbangedyourmom',
+    'resume_author': None,
+    'joined_author': '2016-12-25 00:00:00',
+    'messages_author': 99,
+    'text_post': 'LOL at the insecure white boy Legit Theory and crew needing to pretend to be arab or black. His Irish Italian parents had sentence him to death during childhood Your family friends wife and GOD hates Legit Theory the White British Irish Italian Pedo Catholic Cuck',
+    'number_post': 11,
+    'id_post': 2186428,
+    'id_post_interaction': [
+      2186404
+    ],
+    'date_post': '2016-12-30 00:35:54',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340647'
+  },
+  {
+    'author': 'Lycanthrope',
+    'resume_author': None,
+    'joined_author': '2017-01-03 00:00:00',
+    'messages_author': 375,
+    'text_post': 'So redpilling is considering trolling now?',
+    'number_post': 12,
+    'id_post': 2188444,
+    'id_post_interaction': [],
+    'date_post': '2017-01-04 08:35:07',
+    'links': [],
+    'thread': 'viewtopic.php?f=2&t=1027978',
+    'crawled_at': '2019-06-24 23:38:48.340657'
+  }
+]
