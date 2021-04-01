@@ -3,9 +3,10 @@
 This repo contains the data and the analysis done in the paper "The Evolution of the Manosphere Across the Web".
 
 ~~~bibtex
-@article{ribeiroevolution2021,
+@article{ribeiro2021evolution,
     title={The Evolution of the Manosphere Across the Web},
-    author={Ribeiro, Manoel Horta and Blackburn, Jeremy and Bradlyn, Barry and De Cristofaro, Emiliano and Stringhini, Gianluca and Long, Summer and Greenberg, Stephanie and Zannettou, Savvas},
+    author={Ribeiro, Manoel Horta and Blackburn, Jeremy and Bradlyn, Barry and De Cristofaro, 
+    Emiliano and Stringhini, Gianluca and Long, Summer and Greenberg, Stephanie and Zannettou, Savvas},
     booktitle = {{Proceedings of the 15th International AAAI Conference on Weblogs and Social Media (ICWSM'21)}},
     year={2021}
 }
